@@ -11,19 +11,19 @@
   "sections": {
     "gp_section_569355920094528544": {
       "settings": {
-        "checksum": "313159ea392365cefe991d6bb1cfa7971f1478a049656711f4f2eec447b4b448_1_1_0_0_"
+        "checksum": "b55454393651c517c83df0deaf929faa19cba57a029e0bf5f4c74b68de0fd45c_1_1_0_0_"
       },
       "type": "gp-section-569355920094528544"
     },
     "gp_section_569355942609552405": {
       "settings": {
-        "checksum": "d8e2c248e874929a1ecca1529858aff151580938b47b3dc24aa79121967b883b_1_1_0_0_"
+        "checksum": "cc4b85667e1695bceb9bc119a61740934d3a4ed584d3063400b28ea849af5506_1_1_0_0_"
       },
       "type": "gp-section-569355942609552405"
     },
     "gp_section_569355942743770092": {
       "settings": {
-        "checksum": "cf9b68f8d8ee6339d9facdf61dc74e673ab2a0074ff6563979a04a426159bf0c_1_1_0_0_"
+        "checksum": "0502be0e8db5dc29753708e7b8b15103edcc7112053bcc781bc9be53a88f7c66_1_1_0_0_"
       },
       "type": "gp-section-569355942743770092"
     },
@@ -35,7 +35,7 @@
     },
     "gp_section_569355959386768405": {
       "settings": {
-        "checksum": "a37cd9c3fc03eda129225e4f277b9d68b52966e111ebc735e776ecb2570e77b2_1_1_0_0_"
+        "checksum": "5448cf5b0cd96001058d192b7591b4d8049ded2c9cb664ede7bb0c7cafc81c8c_1_1_0_0_"
       },
       "type": "gp-section-569355959386768405"
     },
@@ -65,16 +65,10 @@
     },
     "gp_section_569357323709973525": {
       "settings": {
-        "checksum": "6b6cb8543e767443a0545a8418d6db057cb212fe4aacd89ed4588f4eef7d4f0e_1_1_0_0_",
+        "checksum": "b9cd11d06fc7c92c39761e1c7e24fdea5e148b0f1a634fc828cadf0c38f1704a_1_1_0_0_",
         "section_preload": "true"
       },
       "type": "gp-section-569357323709973525"
-    },
-    "gp_section_569362595933324268": {
-      "settings": {
-        "checksum": "f222dae52ab4e1fafe5027859cfaf3353625842718ccf385abeb3dad24fed845_1_1_0_0_"
-      },
-      "type": "gp-section-569362595933324268"
     }
   },
   "order": [
@@ -87,7 +81,6 @@
     "gp_section_569355959386833941",
     "gp_section_569355997286499360",
     "gp_section_569355978915447678",
-    "gp_section_569355978932225056",
-    "gp_section_569362595933324268"
+    "gp_section_569355978932225056"
   ]
 }
