@@ -17,20 +17,28 @@
         "message_wpBUVW": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": " 99% eliminare clor și calcar",
+            "url": ""
+          }
+        },
+        "message_wy9mhU": {
+          "type": "message",
+          "settings": {
+            "text": "Livrare gratuita peste 299 de lei",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Peste 50.000 clienți mulțumiți",
             "url": ""
           }
         }
       },
       "block_order": [
         "message_wpBUVW",
+        "message_wy9mhU",
         "message"
       ],
       "settings": {
@@ -48,9 +56,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
-        "logo_max_width": 120,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/image_21.png",
+        "logo_max_width": 195,
+        "logo_mobile_max_width": 140,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
@@ -63,7 +71,8 @@
         "show_country_flag": false,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "reduce_padding": false,
+        "transparent_logo": "shopify://shop_images/image_22411.png",
+        "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0
       }
