@@ -95,7 +95,6 @@
         "heading_XjtBfc",
         "richtext_6y8XLR"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -252,7 +251,6 @@
     },
     "newsletter_EwrzRX": {
       "type": "newsletter",
-      "name": "Newsletter",
       "settings": {
         "full_width": true,
         "show_icon": false,

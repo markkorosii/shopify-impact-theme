@@ -9,54 +9,210 @@
  */
 {
   "sections": {
-    "gp_section_569355920094528544": {
+    "gp_section_569357323709973525": {
+      "type": "gp-section-569357323709973525",
       "settings": {
-        "checksum": "fab6bbc64a5f85f27e083b24f4474255fb6a31151331669e0bacc32961094aa6_1_1_1_0_"
-      },
-      "type": "gp-section-569355920094528544"
-    },
-    "gp_section_569355942609552405": {
-      "settings": {
-        "checksum": "60ee391fba4f6e73e48cccf8ebffff1ee3ba1e2b76fcf8638b45b618777e9b95_1_1_1_0_"
-      },
-      "type": "gp-section-569355942609552405"
+        "section_preload": "true",
+        "checksum": "ed5899afecd1b7b59a0d24991f664f025f89c6f5ce2559b6a663b6b7b1a76904_1_1_1_0_",
+        "ggl2fIwIDwH_customContent_suffix": "OFF",
+        "ggNPkyHh26n_text": "<p>485 Reviews!</p>",
+        "ggp-XM347rB_customContent_suffix": "OFF",
+        "gi2la6131b4e21_viewMoreText": "Show more",
+        "gi2la6131b4e21_viewLessText": "Show less",
+        "ggG9XXOhWR7_childItem_0": "<p>Piele ca mătasea în 7 zile!</p>",
+        "ggG9XXOhWR7_childItem_1": "<p>O singură investiție, multiple beneficii!</p>",
+        "ggG9XXOhWR7_childItem_2": "<p>Stop iritațiilor!</p>",
+        "ggG9XXOhWR7_childItem_3": "<p>Montaj fulger: 90 de secunde!</p>",
+        "ggSISjIot6c_text": "<p>Cu 19 nutrienți (vitamina E, colagen) care hidratează profund.</p>",
+        "gg9c77_rVFO_text": "<p>Nu mai irosi banii pe pagubele cauzate de apa dură și clor! Aquafiltr Pro nu doar că îți oferă o piele catifelată și un păr strălucitor, ci este și o investiție inteligentă.</p>",
+        "ggVWoOvqK4Y_text": "<p>Protejează împotriva roșeții și a descuamării..</p>",
+        "ggYibWuVY0S_text": "<p>Fără unelte, doar înșurubezi.</p>",
+        "ggPHiC3RrtB_label": "Add to cart",
+        "ggPHiC3RrtB_outOfStockLabel": "Out of stock",
+        "ggPHiC3RrtB_unavailableLabel": "Unavailable",
+        "gg95_91IoNU_childItem_0": "<p>100% Money-Back Guarantee</p>",
+        "ggcn8GKkf7V_childItem_0": "<p>60-Day Easy Returns</p>",
+        "ggN_Npo_yb7_childItem_0": "<p>100% Money-Back Guarantee</p>",
+        "ggHDuVJBraZ_childItem_0": "<p>60-Day Easy Returns and Exchanges</p>",
+        "gg4VavWUoVC_childItem_0": "<p>Beneficii</p>",
+        "gg4VavWUoVC_childItem_1": "<p>Cum se utilizează</p>",
+        "gg4VavWUoVC_childItem_2": "<p>Cum se utilizează</p>",
+        "ggsOy-CGfUt_text": "<p>Piele sănătoasă și hidratată </p><p>Protejează bariera pielii</p><p>Păr mai sănătos, mai puternic</p>",
+        "gghjrXESAIC_text": "<p>Reduce acneea</p><p>Păr mai des, mai strălucitor</p><p>Cădere mai redusă a părului</p>",
+        "ggoFJxMUCgw_text": "<ol>\n<li> Demontarea capului de duș.</li>\n<li>Atașarea filtrului de duș Filterbaby Pro Series la țeava de perete.</li>\n<li>Reatașarea capului de duș la filtrul nou instalat. Lăsați apa să curgă timp de un minut.</li>\n<li>Înlocuiți filtrul la fiecare 3 luni pentru cele mai bune rezultate!</li>\n</ol>",
+        "ggOr2uFtyoo_text": "<p><strong>1 kit de start Aquafiltr Pro Series include:</strong></p><ul>\n<li>1 carcasă de filtru pentru duș din aluminiu cu titan</li>\n<li>1 cartuș de filtru (rezervă pentru 3 luni)</li>\n<li>cheie de montaj</li>\n<li>bandă teflonată pentru instalații</li>\n<li>manual de utilizare</li>\n</ul>"
+      }
     },
     "gp_section_569355942743770092": {
+      "type": "gp-section-569355942743770092",
       "settings": {
-        "checksum": "64392395bdc59aed6a4067ea95df2a6af1a141b650583c954b96412019e97510_1_1_1_0_"
-      },
-      "type": "gp-section-569355942743770092"
+        "section_preload": "false",
+        "checksum": "64392395bdc59aed6a4067ea95df2a6af1a141b650583c954b96412019e97510_1_1_1_0_",
+        "gaiPIZKUxNpwG_text": "Soluția? Apa curată înseamnă piele, păr și electrocasnice mai sănătoase.",
+        "gBAMuyHvxcWBD_text": "<p><strong>96% dintre români au apă dură.</strong> Asta înseamnă calcar pe piele, păr uscat și aparate stricate mai repede.</p>",
+        "gQPwMLuuxIfnI_text": "<strong>Calcarul</strong>: AquaPure reduce cu până la 92% mineralele dure (Ca/Mg) care provoacă depuneri.",
+        "gg1c2Izi2Ny_text": "<strong>Microplastice și impurități</strong>: Elimină particule invizibile, de până la 0.001 mm – de <i>100x mai mici decât firul de păr!</i>",
+        "ggEwypRsXid_text": "<strong>Clor &amp; Cloramină</strong>: La revedere mirosului de piscină și pielii uscate!"
+      }
+    },
+    "gp_section_569355920094528544": {
+      "type": "gp-section-569355920094528544",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "fab6bbc64a5f85f27e083b24f4474255fb6a31151331669e0bacc32961094aa6_1_1_1_0_",
+        "gPAYINPikJwWv_text": "<span style=\"font-size:38px;\">Rezultatele vorbesc de la sine!</span>",
+        "gghpbgPmADn_text": "<p>Andra, Brașov</p>",
+        "ggYkFEFwiF__text": "<p>\"Mă simt mult mai fresh după duș. Apa e pur și simplu mai bună, mă energizează.\"</p>",
+        "gDidangwIOugo_text": "<p><span style=\"font-size:14px;\">Elena, Iași</span></p>",
+        "ghjCptgSDWfwW_text": "<p>\"Am economisit 800 lei pe produse de îngrijire într-un an! Pielea nu mai este uscată, iar copilul meu nu mai plânge după duș din cauza mâncărimilor.\"</p>",
+        "ggBD_bIZHDc_text": "<p>Corina, Ploiești</p>",
+        "ggOnL3SomK__text": "<p>\"Culoarea părului meu rezistă mai mult și tenul are un glow natural. Filterbaby e secretul meu pentru frumusețe!\"</p>",
+        "gggK-ijgP2E_text": "<p>Bianca, Galați</p>",
+        "ggRzBbmY09p_text": "<p>\"Pielea mea sensibilă nu se mai irită! Cu Aquafiltr Pro, e ca un duș cu apă de izvor – fără roșeață, doar confort. Îl recomand!\"</p>",
+        "gHtXajoInDSiG_text": "<p>Denisa, Oradea</p>",
+        "gqKmmaVdFnBmI_text": "<p>\"Nu mai cheltuiesc atât de mult pe loțiuni! Pielea mea e hidratată natural, datorită acestui filtru.\"</p>",
+        "gQaxTwEnKRDcw_text": "<p><span style=\"font-size:14px;\">Maria, Cluj</span></p>",
+        "gwBncpjHItXrS_text": "<p>\"<i>Nu credeam că o să facă diferența, dar după o lună, pielea mea e mai netedă decât a fost vreodată! Nici măcar nu mai folosesc cremă hidratantă.</i>\"</p>"
+      }
+    },
+    "gp_section_569355942609552405": {
+      "type": "gp-section-569355942609552405",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "60ee391fba4f6e73e48cccf8ebffff1ee3ba1e2b76fcf8638b45b618777e9b95_1_1_1_0_",
+        "gBnbIiAiTqywj_text": "Scapă de <br>încrețire cu filtrul",
+        "gfAOYqjfXHVYk_text": "<p><strong>96% dintre români </strong>au apă dură în gospodărie (sursa: Institutul Național de Statistică, 2024).</p><p> </p><p>Depunerile de calc <strong>distrug 68% mai repede</strong> electrocasnicele (studiu independent).</p>",
+        "gg0tjmcpOu-_childItem_0": "<p><strong>ÎNCREȚIREA</strong></p>",
+        "gg0tjmcpOu-_childItem_1": "<p>Clor</p>",
+        "ggRemVUSr8M_text": "Reducere mineralelor dure <strong>(Testat independent)</strong>",
+        "gg1FUa7rj0L_text": "92,7%",
+        "ggKEtihGP_d_text": "<p>Elimină până la <strong>99% din clor și cloramina</strong>, precum și metale grele, microplastice și alte impurități, pentru o apă de duș curată.</p>",
+        "gg47OxGaliT_text": "99.2%",
+        "gKlUcBsggzBbF_text": "Elimină particule <br>invizibile, de până la",
+        "gMpNQyjBmUehO_text": "0.001 mm",
+        "grEWpXppgUYbV_text": "<p>de 100x mai mici decât firul de păr!</p>",
+        "ggmjJ10QdSU_text": "Mai eficient decât <br>apa clorată",
+        "gg6M1EhK2Et_text": "94%",
+        "ggQ9QGs725B_text": "<p>din coloniile bacteriene</p>"
+      }
     },
     "gp_section_569355959353213984": {
+      "type": "gp-section-569355959353213984",
       "settings": {
-        "checksum": "f677d9a4a740687737e274225967ef6af7bd7fdd85c108aed406a9bd34e8133a_1_1_1_0_"
-      },
-      "type": "gp-section-569355959353213984"
+        "section_preload": "false",
+        "checksum": "f677d9a4a740687737e274225967ef6af7bd7fdd85c108aed406a9bd34e8133a_1_1_1_0_",
+        "gVvyGsuDwwbFC_text": "Transform Your Skin And Hair",
+        "gcKaVYDigqOnY_label": "Shop Now - 30% Off"
+      }
     },
     "gp_section_569355959386833941": {
+      "type": "gp-section-569355959386833941",
       "settings": {
+        "section_preload": "false",
         "checksum": "17d1bbbf23bcb923e78793bd8f23c7874149d2cc8a57f78386f83cf2e92981de_1_1_1_0_"
-      },
-      "type": "gp-section-569355959386833941"
-    },
-    "gp_section_569355978915447678": {
-      "settings": {
-        "checksum": "f960418bf737fdf6806dea544f7f6997b2d3e04c38194491ba886219edb6cea8_1_1_1_0_"
-      },
-      "type": "gp-section-569355978915447678"
+      }
     },
     "gp_section_569355997286499360": {
+      "type": "gp-section-569355997286499360",
       "settings": {
-        "checksum": "6993495d32378a280a1eb47e0a1f25ba7c8e7028d26a18eb45fe93e7346b4b6e_1_1_1_0_"
-      },
-      "type": "gp-section-569355997286499360"
+        "section_preload": "false",
+        "checksum": "6993495d32378a280a1eb47e0a1f25ba7c8e7028d26a18eb45fe93e7346b4b6e_1_1_1_0_",
+        "gNHWpgSBWWEaW_text": "Reviews"
+      }
     },
-    "gp_section_569357323709973525": {
+    "gp_section_569355978915447678": {
+      "type": "gp-section-569355978915447678",
       "settings": {
-        "checksum": "ed5899afecd1b7b59a0d24991f664f025f89c6f5ce2559b6a663b6b7b1a76904_1_1_1_0_",
-        "section_preload": "true"
+        "section_preload": "false",
+        "checksum": "f960418bf737fdf6806dea544f7f6997b2d3e04c38194491ba886219edb6cea8_1_1_1_0_",
+        "gSEFlnsRxLoDA_text": "Better Skin &amp; Hair Or Your Money Back.",
+        "gapdEOCGpgmRi_text": "30-Day Risk-Free Guarantee.Not satisfied with your product?Return it to us, risk-free in 30 days. That's how confident we are that you'll like the product.."
+      }
+    },
+    "faq_NmwaTa": {
+      "type": "faq",
+      "blocks": {
+        "item_cn4xWp": {
+          "type": "item",
+          "settings": {
+            "title": "Se potrivește capul de duș filtratAquafiltr Pro la dușul meu existent?",
+            "content": "<p>Da, capul de duș filtrat Aquafiltr Pro are un filtru integrat și este proiectat să fie compatibil cu majoritatea furtunurilor de duș și fitingurilor standard.</p>"
+          }
+        },
+        "item_gcJLzb": {
+          "type": "item",
+          "settings": {
+            "title": "Cât de ușor este de instalat?",
+            "content": "<p>Este super ușor – o poți face singur, nu ai nevoie de instalator. Tot ce îți trebuie sunt 3 pași simpli:</p><ol><li>Demontați capul de duș original.</li><li>Înșurubați filtrul de duș Filterbaby Pro Series.</li><li>Înșurubați capul de duș original pe filtrul de duș Filterbaby Pro Series.</li></ol>"
+          }
+        },
+        "item_P3FjaB": {
+          "type": "item",
+          "settings": {
+            "title": "Ce rezultate mă pot aștepta de la utilizarea capului de duș filtrat Aquafiltr Pro?",
+            "content": "<p><br/>Vă puteți aștepta la îmbunătățiri semnificative ale pielii și părului, inclusiv reducerea erupțiilor cutanate, roșeții și iritațiilor; o piele mai moale, mai hidratată și un păr mai sănătos și mai strălucitor. Ajută pielea uscată, eczematoasă, predispusă la acnee și rozacee, și îmbunătățește sănătatea respiratorie prin eliminarea vaporilor de clor.<br/><br/></p>"
+          }
+        },
+        "item_tgBJAP": {
+          "type": "item",
+          "settings": {
+            "title": "Ce impurități elimină filtrul?",
+            "content": "<p><br/>Aquafiltr Pro elimină până la 99% din clor, cloramină și plumb. De asemenea, reduce metalele grele și alte substanțe chimice dăunătoare.<br/><br/><br/></p>"
+          }
+        },
+        "item_wg4rng": {
+          "type": "item",
+          "settings": {
+            "title": "Înmuierează apa capul de duș filtrat?",
+            "content": "<p><br/>Aquafiltr Pro elimină până la 99% din clor, cloramină și plumb. De asemenea, reduce metalele grele și alte substanțe chimice dăunătoare.<br/><br/><br/></p>"
+          }
+        },
+        "item_MVxXmg": {
+          "type": "item",
+          "settings": {
+            "title": "Când schimb filtrul?",
+            "content": "<p><br/>Majoritatea filtrelor de duș trebuie schimbate la fiecare 3 luni sau după filtrarea a aproximativ 10.000 de litri de apă.<br/><br/></p>"
+          }
+        },
+        "item_emX4PM": {
+          "type": "item",
+          "settings": {
+            "title": "Protejează și mașina de spălat? (Și alte aparate?)",
+            "content": "<p><br/><em>Deși Filterbaby este conceput special pentru duș, apa filtrată ajută la reducerea calcarului în TOATE aparatele casei!<br/><br/></em><strong>Reducere ~60% a depunerilor</strong> <em>TOATE aparatele</em><br/><br/></p>"
+          }
+        }
       },
-      "type": "gp-section-569357323709973525"
+      "block_order": [
+        "item_cn4xWp",
+        "item_gcJLzb",
+        "item_P3FjaB",
+        "item_tgBJAP",
+        "item_wg4rng",
+        "item_MVxXmg",
+        "item_emX4PM"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Serviciul nostru de asistență pentru clienți este disponibil de luni până vineri, între orele 8:00 și 20:30.",
+        "answer_time": "Timp mediu de răspuns: 4-6 ore",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -67,6 +223,7 @@
     "gp_section_569355959353213984",
     "gp_section_569355959386833941",
     "gp_section_569355997286499360",
-    "gp_section_569355978915447678"
+    "gp_section_569355978915447678",
+    "faq_NmwaTa"
   ]
 }
