@@ -14,19 +14,10 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "",
             "show_menu_title": true
           }
         },
@@ -40,7 +31,6 @@
         }
       },
       "block_order": [
-        "newsletter",
         "links",
         "text"
       ],
@@ -50,7 +40,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
-        "show_locale_selector": true
+        "show_locale_selector": false
       }
     }
   },
