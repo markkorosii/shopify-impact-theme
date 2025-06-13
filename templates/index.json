@@ -65,26 +65,66 @@
         "text_gradient": ""
       }
     },
+    "rich_text_xFGCyf": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_beh4zU": {
+          "type": "subheading",
+          "settings": {
+            "text": "Revoluționează-ți experiența la duș!"
+          }
+        },
+        "heading_XjtBfc": {
+          "type": "heading",
+          "settings": {
+            "text": "CALITATE SUPERIOARĂ",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_6y8XLR": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Bun venit la Filterbaby – unde fiecare picătură de apă înseamnă piele catifelată și păr strălucitor. Cu filtrele noastre inovatoare, aducem puritatea apei de izvor în casa ta.</p><p><strong>De ce să ne alegi?</strong><br/>✔ 99% eliminare clor și calcar<br/>✔ Instalare în 3 minute – fără expert<br/>✔ Peste 50.000 clienți mulțumiți</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_beh4zU",
+        "heading_XjtBfc",
+        "richtext_6y8XLR"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Bun venit în lumea apei pure!"
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "FILTRU DE DUȘ REVOLUȚIONAR",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Aquafiltr Pro transformă apa robinetului într-un izvor de hidratare. Spune adio pielii uscate și părului lipsit de viață.</p>"
           }
         }
       },
@@ -97,34 +137,14 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "md",
+        "image": "shopify://shop_images/pexels-timmossholder-1049687.jpg",
+        "mobile_image": "shopify://shop_images/pexels-timmossholder-1049687.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "press": {
@@ -134,26 +154,37 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "author": "Ioan***",
+            "content": "Sincer să fiu, Filtrul chiar oprește impuritățile – se vede în cartuș după câteva săptămâni. Sunt mulțumit pe deplin.",
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
+            "author": "Pop ***",
+            "content": "Nu credema că un simplu filtru poate face o așa diferență. Pielea nu mai e uscată după duș. O să mai cumpăr unul pentru părinți.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_rtzh3B": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Violeta ***",
+            "content": "Pentru mine, Folosesc Aquafiltr de 2 luni și se simte o mare diferență la duș. Îl voi recomanda și altora.",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
       "block_order": [
         "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "16644243327ba53d2a-1",
+        "quote_rtzh3B"
       ],
       "settings": {
         "full_width": true,
@@ -165,47 +196,6 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "faq": {
@@ -259,15 +249,32 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "newsletter_EwrzRX": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "Nu rata nicio oportunitate!",
+        "content": "<p>Abonează-te acum și primești 10% reducere la prima comandă!</p>",
+        "button_text": "VREAU ACCES EXCLUSIV",
+        "subtext": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "scrolling-text",
+    "rich_text_xFGCyf",
     "image-with-text-overlay",
-    "before-after-image",
     "press",
-    "multiple-images-with-text",
-    "faq"
+    "faq",
+    "newsletter_EwrzRX"
   ]
 }
