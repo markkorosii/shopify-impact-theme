@@ -200,38 +200,70 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "166442457738b23caf-0": {
+        "item_hGPgLh": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Protejează și mașina de spălat? (Și alte aparate?)",
+            "content": "<p><br/><em>Deși Filterbaby este conceput special pentru duș, apa filtrată ajută la reducerea calcarului în TOATE aparatele casei!<br/><br/></em><strong>Reducere ~60% a depunerilor</strong> <em>TOATE aparatele</em><br/><br/></p>"
           }
         },
-        "166442457738b23caf-1": {
+        "item_BJegKj": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Se potrivește capul de duș filtratAquafiltr Pro la dușul meu existent?",
+            "content": "<p>Da, capul de duș filtrat Aquafiltr Pro are un filtru integrat și este proiectat să fie compatibil cu majoritatea furtunurilor de duș și fitingurilor standard.</p>"
           }
         },
-        "166442457738b23caf-2": {
+        "item_yCzmPt": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Cât de ușor este de instalat?",
+            "content": "<p>Este super ușor – o poți face singur, nu ai nevoie de instalator. Tot ce îți trebuie sunt 3 pași simpli:</p><ol><li>Demontați capul de duș original.</li><li>Înșurubați filtrul de duș Filterbaby Pro Series.</li><li>Înșurubați capul de duș original pe filtrul de duș Filterbaby Pro Series.</li></ol>"
+          }
+        },
+        "item_9tEAMH": {
+          "type": "item",
+          "settings": {
+            "title": "Ce rezultate mă pot aștepta de la utilizarea capului de duș filtrat Aquafiltr Pro?",
+            "content": "<p><br/>Vă puteți aștepta la îmbunătățiri semnificative ale pielii și părului, inclusiv reducerea erupțiilor cutanate, roșeții și iritațiilor; o piele mai moale, mai hidratată și un păr mai sănătos și mai strălucitor. Ajută pielea uscată, eczematoasă, predispusă la acnee și rozacee, și îmbunătățește sănătatea respiratorie prin eliminarea vaporilor de clor.<br/><br/></p>"
+          }
+        },
+        "item_4MqF7H": {
+          "type": "item",
+          "settings": {
+            "title": "Ce impurități elimină filtrul?",
+            "content": "<p><br/>Aquafiltr Pro elimină până la 99% din clor, cloramină și plumb. De asemenea, reduce metalele grele și alte substanțe chimice dăunătoare.<br/><br/><br/></p>"
+          }
+        },
+        "item_Q9rzTC": {
+          "type": "item",
+          "settings": {
+            "title": "Înmuierează apa capul de duș filtrat?",
+            "content": "<p><br/>Aquafiltr Pro elimină până la 99% din clor, cloramină și plumb. De asemenea, reduce metalele grele și alte substanțe chimice dăunătoare.<br/><br/><br/></p>"
+          }
+        },
+        "item_a6JTwc": {
+          "type": "item",
+          "settings": {
+            "title": "Când schimb filtrul?",
+            "content": "<p><br/>Majoritatea filtrelor de duș trebuie schimbate la fiecare 3 luni sau după filtrarea a aproximativ 10.000 de litri de apă.<br/><br/></p>"
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_hGPgLh",
+        "item_BJegKj",
+        "item_yCzmPt",
+        "item_9tEAMH",
+        "item_4MqF7H",
+        "item_Q9rzTC",
+        "item_a6JTwc"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Intrebari frecvente",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
