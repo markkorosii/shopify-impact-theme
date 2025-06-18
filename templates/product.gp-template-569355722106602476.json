@@ -118,6 +118,13 @@
         "ggQ9QGs725B_text": "<p>din coloniile bacteriene</p>"
       }
     },
+    "gp_section_569355997286499360": {
+      "type": "gp-section-569355997286499360",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "4625237a648d2972c3d3dfc576b13bfac05f9a0a968fef62b8e205a39d241ea7_1_1_1_0_"
+      }
+    },
     "faq_aqXtBk": {
       "type": "faq",
       "blocks": {
@@ -188,7 +195,7 @@
         "team_avatar_width": 160,
         "support_hours": "Serviciul nostru de asistență pentru clienți este disponibil de luni până vineri, între orele 8:00 și 20:30.",
         "answer_time": "Timp mediu de răspuns: 4-6 ore",
-        "button_text": "",
+        "button_text": "Telefon de contact",
         "button_url": "",
         "text_position": "start",
         "background": "#ffffff",
@@ -200,13 +207,6 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
-      }
-    },
-    "gp_section_569355997286499360": {
-      "type": "gp-section-569355997286499360",
-      "settings": {
-        "section_preload": "false",
-        "checksum": "4625237a648d2972c3d3dfc576b13bfac05f9a0a968fef62b8e205a39d241ea7_1_1_1_0_"
       }
     }
   },
