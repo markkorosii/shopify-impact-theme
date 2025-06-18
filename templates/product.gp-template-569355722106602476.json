@@ -21,12 +21,6 @@
       },
       "type": "gp-section-569355942743770092"
     },
-    "gp_section_569355978915447678": {
-      "settings": {
-        "checksum": "37a7a6b1d9519b5a86e8a1b7ebdf41b4dd3d773d5c028c9e62b16896d90da0f7_1_1_1_0_"
-      },
-      "type": "gp-section-569355978915447678"
-    },
     "gp_section_569355997286499360": {
       "settings": {
         "checksum": "4625237a648d2972c3d3dfc576b13bfac05f9a0a968fef62b8e205a39d241ea7_1_1_1_0_"
@@ -51,15 +45,21 @@
         "checksum": "92b2f413d81215387b7896007f4eb2b44b6398184ac9089878fe66128e9115ff_1_1_1_0_"
       },
       "type": "gp-section-571652763964932935"
+    },
+    "gp_section_571656263440532295": {
+      "settings": {
+        "checksum": "f2d32a4b631c14ef66422db909df484dad9cb547e3a3cb33d9290dbad798a6d8_1_1_1_0_"
+      },
+      "type": "gp-section-571656263440532295"
     }
   },
   "order": [
     "gp_section_569357323709973525",
     "gp_section_569355942743770092",
     "gp_section_569355920094528544",
+    "gp_section_571656263440532295",
     "gp_section_571652763964932935",
     "gp_section_571645619102287072",
-    "gp_section_569355978915447678",
     "gp_section_569355997286499360"
   ]
 }
