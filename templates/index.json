@@ -196,22 +196,6 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
-    },
-    "newsletter_EwrzRX": {
-      "type": "newsletter",
-      "settings": {
-        "full_width": true,
-        "show_icon": false,
-        "title": "Nu rata nicio oportunitate!",
-        "content": "<p>Abonează-te acum și primești 10% reducere la prima comandă!</p>",
-        "button_text": "VREAU ACCES EXCLUSIV",
-        "subtext": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
@@ -219,7 +203,6 @@
     "scrolling-text",
     "rich_text_xFGCyf",
     "image-with-text-overlay",
-    "press",
-    "newsletter_EwrzRX"
+    "press"
   ]
 }

@@ -11,6 +11,22 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "newsletter_iXt4DQ": {
+      "type": "newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "Nu rata nicio oportunitate!",
+        "content": "<p>Abonează-te acum și primești 10% reducere la prima comandă!</p>",
+        "button_text": "VREAU ACCES EXCLUSIV",
+        "subtext": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "faq_8HCUTz": {
       "type": "faq",
       "blocks": {
@@ -121,6 +137,7 @@
   },
   "order": [
     "faq_8HCUTz",
+    "newsletter_iXt4DQ",
     "footer"
   ]
 }
