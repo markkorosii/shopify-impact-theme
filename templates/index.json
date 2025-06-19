@@ -197,90 +197,6 @@
         "logo_item_border": ""
       }
     },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "item_hGPgLh": {
-          "type": "item",
-          "settings": {
-            "title": "Protejează și mașina de spălat? (Și alte aparate?)",
-            "content": "<p><br/><em>Deși Filterbaby este conceput special pentru duș, apa filtrată ajută la reducerea calcarului în TOATE aparatele casei!<br/><br/></em><strong>Reducere ~60% a depunerilor</strong> <em>TOATE aparatele</em><br/><br/></p>"
-          }
-        },
-        "item_BJegKj": {
-          "type": "item",
-          "settings": {
-            "title": "Se potrivește capul de duș filtratAquafiltr Pro la dușul meu existent?",
-            "content": "<p>Da, capul de duș filtrat Aquafiltr Pro are un filtru integrat și este proiectat să fie compatibil cu majoritatea furtunurilor de duș și fitingurilor standard.</p>"
-          }
-        },
-        "item_yCzmPt": {
-          "type": "item",
-          "settings": {
-            "title": "Cât de ușor este de instalat?",
-            "content": "<p>Este super ușor – o poți face singur, nu ai nevoie de instalator. Tot ce îți trebuie sunt 3 pași simpli:</p><ol><li>Demontați capul de duș original.</li><li>Înșurubați filtrul de duș Filterbaby Pro Series.</li><li>Înșurubați capul de duș original pe filtrul de duș Filterbaby Pro Series.</li></ol>"
-          }
-        },
-        "item_9tEAMH": {
-          "type": "item",
-          "settings": {
-            "title": "Ce rezultate mă pot aștepta de la utilizarea capului de duș filtrat Aquafiltr Pro?",
-            "content": "<p><br/>Vă puteți aștepta la îmbunătățiri semnificative ale pielii și părului, inclusiv reducerea erupțiilor cutanate, roșeții și iritațiilor; o piele mai moale, mai hidratată și un păr mai sănătos și mai strălucitor. Ajută pielea uscată, eczematoasă, predispusă la acnee și rozacee, și îmbunătățește sănătatea respiratorie prin eliminarea vaporilor de clor.<br/><br/></p>"
-          }
-        },
-        "item_4MqF7H": {
-          "type": "item",
-          "settings": {
-            "title": "Ce impurități elimină filtrul?",
-            "content": "<p><br/>Aquafiltr Pro elimină până la 99% din clor, cloramină și plumb. De asemenea, reduce metalele grele și alte substanțe chimice dăunătoare.<br/><br/><br/></p>"
-          }
-        },
-        "item_Q9rzTC": {
-          "type": "item",
-          "settings": {
-            "title": "Înmuierează apa capul de duș filtrat?",
-            "content": "<p><br/>Aquafiltr Pro elimină până la 99% din clor, cloramină și plumb. De asemenea, reduce metalele grele și alte substanțe chimice dăunătoare.<br/><br/><br/></p>"
-          }
-        },
-        "item_a6JTwc": {
-          "type": "item",
-          "settings": {
-            "title": "Când schimb filtrul?",
-            "content": "<p><br/>Majoritatea filtrelor de duș trebuie schimbate la fiecare 3 luni sau după filtrarea a aproximativ 10.000 de litri de apă.<br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_hGPgLh",
-        "item_BJegKj",
-        "item_yCzmPt",
-        "item_9tEAMH",
-        "item_4MqF7H",
-        "item_Q9rzTC",
-        "item_a6JTwc"
-      ],
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "Intrebari frecvente",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "Serviciul nostru de asistență pentru clienți este disponibil de luni până vineri, între orele 8:00 și 20:30.",
-        "answer_time": "Timp mediu de răspuns: 4-6 ore",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "newsletter_EwrzRX": {
       "type": "newsletter",
       "settings": {
@@ -304,7 +220,6 @@
     "rich_text_xFGCyf",
     "image-with-text-overlay",
     "press",
-    "faq",
     "newsletter_EwrzRX"
   ]
 }
