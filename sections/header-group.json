@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_wpBUVW": {
-          "type": "message",
-          "settings": {
-            "text": " 99% eliminare clor și calcar",
-            "url": ""
-          }
-        },
         "message_wy9mhU": {
           "type": "message",
           "settings": {
@@ -37,7 +30,6 @@
         }
       },
       "block_order": [
-        "message_wpBUVW",
         "message_wy9mhU",
         "message"
       ],
