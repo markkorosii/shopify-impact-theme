@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shampoo-header.webp",
-            "mobile_image": "shopify://shop_images/pexels-karolina-grabowska-5241037_1.webp",
+            "image": "shopify:\/\/shop_images\/shampoo-header.webp",
+            "mobile_image": "shopify:\/\/shop_images\/pexels-karolina-grabowska-5241037_1.webp",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -86,7 +86,7 @@
         "richtext_6y8XLR": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Bun venit la Filterbaby – unde fiecare picătură de apă înseamnă piele catifelată și păr strălucitor. Cu filtrele noastre inovatoare, aducem puritatea apei de izvor în casa ta.</p><p><strong>De ce să ne alegi?</strong><br/>✔ 99% eliminare clor și calcar<br/>✔ Instalare în 3 minute – fără expert<br/>✔ Peste 50.000 clienți mulțumiți</p>"
+            "content": "<p>Bun venit la Filterbaby – unde fiecare picătură de apă înseamnă piele catifelată și păr strălucitor. Cu filtrele noastre inovatoare, aducem puritatea apei de izvor în casa ta.<\/p><p><strong>De ce să ne alegi?<\/strong><br\/>✔ 99% eliminare clor și calcar<br\/>✔ Instalare în 3 minute – fără expert<br\/>✔ Peste 50.000 clienți mulțumiți<\/p>"
           }
         }
       },
@@ -123,7 +123,7 @@
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Aquafiltr Pro transformă apa robinetului într-un izvor de hidratare. Spune adio pielii uscate și părului lipsit de viață.</p>"
+            "content": "<p>Aquafiltr Pro transformă apa robinetului într-un izvor de hidratare. Spune adio pielii uscate și părului lipsit de viață.<\/p>"
           }
         }
       },
@@ -137,8 +137,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/pexels-timmossholder-1049687.jpg",
-        "mobile_image": "shopify://shop_images/pexels-timmossholder-1049687.jpg",
+        "image": "shopify:\/\/shop_images\/pexels-timmossholder-1049687.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/pexels-timmossholder-1049687.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
