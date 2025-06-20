@@ -119,9 +119,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "9-12 hónap",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>TELJES KÖRŰ SZÁJHIGIÉNIA-FEJLESZTÉS<br/></strong>Fogai erősebbek, ínyük egészségesebb, leheletük pedig frissebb, mint valaha. Folyamatos használattal szájüregi mikrobiomjuk kiegyensúlyozott marad, megelőzve a lepedékképződést és az ínybetegségeket.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
