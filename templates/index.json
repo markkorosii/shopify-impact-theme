@@ -82,7 +82,7 @@
         "heading_G9gdJW": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Rólunk",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -91,7 +91,7 @@
         "richtext_THCct7": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Tudjuk, hogy eleged van a mindennapi <strong>szájöblögetésből</strong>, a mindennapi <strong>fogfehérítő tapasz felhelyezéséből</strong>. Eleged van abból, hogy <strong>nem tudsz őszintén mosolyogni.</strong><br/><br/>A Teethshield rengeteg ember mosolyát <strong>újra</strong> előcsalta évek után. Többé <strong>nincs</strong> kellemetlen érzés, <strong>nincs</strong> kellemetlen szájíz, Csak <strong>te</strong> - <strong>mi</strong> - és a <strong>Teethshield</strong>.</p>"
           }
         }
       },
