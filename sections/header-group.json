@@ -17,14 +17,14 @@
         "message_wy9mhU": {
           "type": "message",
           "settings": {
-            "text": "10% kedvezmény",
+            "text": "10% kedvezmény!",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Peste 50.000 clienți mulțumiți",
+            "text": "Iratkozz fel hírlevelünkre.",
             "url": ""
           }
         }
