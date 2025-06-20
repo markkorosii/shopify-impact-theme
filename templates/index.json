@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shampoo-header.webp",
-            "mobile_image": "shopify://shop_images/pexels-karolina-grabowska-5241037_1.webp",
+            "image": "shopify://shop_images/gif-ezgif.com-video-to-webp-converter.webp",
+            "mobile_image": "shopify://shop_images/gif-ezgif.com-video-to-webp-converter.webp",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -137,8 +137,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/pexels-timmossholder-1049687.jpg",
-        "mobile_image": "shopify://shop_images/pexels-timmossholder-1049687.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
