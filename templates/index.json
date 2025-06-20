@@ -50,51 +50,8 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "99% clor eliminat - 0,001 mm filtrare - 92% mai puțină încrețire",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "rich_text_xFGCyf": {
       "type": "rich-text",
-      "blocks": {
-        "subheading_beh4zU": {
-          "type": "subheading",
-          "settings": {
-            "text": "Revoluționează-ți experiența la duș!"
-          }
-        },
-        "heading_XjtBfc": {
-          "type": "heading",
-          "settings": {
-            "text": "CALITATE SUPERIOARĂ",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_6y8XLR": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Bun venit la Filterbaby – unde fiecare picătură de apă înseamnă piele catifelată și păr strălucitor. Cu filtrele noastre inovatoare, aducem puritatea apei de izvor în casa ta.</p><p><strong>De ce să ne alegi?</strong><br/>✔ 99% eliminare clor și calcar<br/>✔ Instalare în 3 minute – fără expert<br/>✔ Peste 50.000 clienți mulțumiți</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_beh4zU",
-        "heading_XjtBfc",
-        "richtext_6y8XLR"
-      ],
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -104,44 +61,91 @@
         "text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
+    "slideshow_AYyiCV": {
+      "type": "slideshow",
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "multi_column_cNkQtw": {
+      "type": "multi-column",
       "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
+        "item_J49bBG": {
+          "type": "item",
           "settings": {
-            "text": "Bun venit în lumea apei pure!"
+            "column_size": "3",
+            "title": "1-2 hónap",
+            "heading_tag": "h4",
+            "content": "<p><strong>FRISSESSÉG ÉS AZ ERŐ JELEI<br/></strong>Azonnal tisztább fogakat, frissebb leheletet és egészségesebb ínyt fogsz tapasztalni. A rágógumi semlegesíti a savakat, leküzdi a baktériumokat, és csökkenti a lepedéket érkezés után.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
+        "item_wVTVKE": {
+          "type": "item",
           "settings": {
-            "text": "FILTRU DE DUȘ REVOLUȚIONAR",
-            "heading_tag": "h1"
+            "column_size": "3",
+            "title": "3-5 hónap",
+            "heading_tag": "h4",
+            "content": "<p><strong>ÍNYEGÉSZSÉG ÉS ÉRZÉKENYSÉG ENYHÍTÉSE</strong><br/>Az íny kevésbé gyulladt és ellenállóbb, kevesebb vérzés és irritáció jelentkezik. Az érzékenység csökken, így a meleg és hideg ételek élvezetesebbek lesznek.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
+        "item_Vgi4tm": {
+          "type": "item",
           "settings": {
-            "content": "<p>Aquafiltr Pro transformă apa robinetului într-un izvor de hidratare. Spune adio pielii uscate și părului lipsit de viață.</p>"
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ChxCFx": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
+        "item_J49bBG",
+        "item_wVTVKE",
+        "item_Vgi4tm",
+        "item_ChxCFx"
       ],
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "md",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Mire számíthatunk a használat során?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "press": {
@@ -198,9 +202,9 @@
   },
   "order": [
     "slideshow",
-    "scrolling-text",
     "rich_text_xFGCyf",
-    "image-with-text-overlay",
+    "slideshow_AYyiCV",
+    "multi_column_cNkQtw",
     "press"
   ]
 }
