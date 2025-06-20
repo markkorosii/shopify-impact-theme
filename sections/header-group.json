@@ -17,7 +17,7 @@
         "message_wy9mhU": {
           "type": "message",
           "settings": {
-            "text": "Livrare gratuita peste 299 de lei",
+            "text": "10% kedvezmény",
             "url": ""
           }
         },
@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/image_21.png",
         "logo_max_width": 195,
         "logo_mobile_max_width": 140,
         "menu": "main-menu",
@@ -63,7 +62,6 @@
         "show_country_flag": false,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/image_22411.png",
         "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0
