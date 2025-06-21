@@ -72,7 +72,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -91,7 +91,7 @@
         "richtext_THCct7": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Tudjuk, hogy eleged van a mindennapi <strong>szájöblögetésből</strong>, a mindennapi <strong>fogfehérítő tapasz felhelyezéséből</strong>. Eleged van abból, hogy <strong>nem tudsz őszintén mosolyogni.</strong><br/><br/>A Teethshield rengeteg ember mosolyát <strong>újra</strong> előcsalta évek után. Többé <strong>nincs</strong> kellemetlen érzés, <strong>nincs</strong> kellemetlen szájíz, Csak <strong>te</strong> - <strong>mi</strong> - és a <strong>Teethshield</strong>.</p>"
+            "content": "<p>Tudjuk, hogy eleged van a mindennapi <strong>szájöblögetésből</strong>, a mindennapi <strong>fogfehérítő tapasz felhelyezéséből</strong>. Eleged van abból, hogy <strong>nem tudsz őszintén mosolyogni.</strong><br/><br/>A <strong>Teethshield</strong> rengeteg ember mosolyát <strong>újra</strong> előcsalta évek után. Többé <strong>nincs</strong> kellemetlen érzés, <strong>nincs</strong> kellemetlen szájíz, Csak <strong>te</strong> - <strong>mi</strong> - és a <strong>Teethshield</strong>.</p>"
           }
         }
       },
