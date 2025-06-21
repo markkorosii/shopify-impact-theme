@@ -126,6 +126,22 @@
         "overlay_opacity": 30
       }
     },
+    "images_with_text_scrolling_99jNqN": {
+      "type": "images-with-text-scrolling",
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "multi_column_cNkQtw": {
       "type": "multi-column",
       "blocks": {
@@ -256,6 +272,7 @@
     "slideshow_AYyiCV",
     "rich_text_VnHaVL",
     "image_with_text_overlay_6C9ix4",
+    "images_with_text_scrolling_99jNqN",
     "multi_column_cNkQtw",
     "press"
   ]
