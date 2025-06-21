@@ -126,20 +126,37 @@
         "overlay_opacity": 30
       }
     },
-    "images_with_text_scrolling_99jNqN": {
-      "type": "images-with-text-scrolling",
-      "name": "Images and text scrolling",
+    "rich_text_QqqK3a": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fXrdjf": {
+          "type": "heading",
+          "settings": {
+            "text": "Hogyan működik?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_QEbXbG": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fXrdjf",
+        "richtext_QEbXbG"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "text_color": ""
       }
     },
     "multi_column_cNkQtw": {
@@ -272,7 +289,7 @@
     "slideshow_AYyiCV",
     "rich_text_VnHaVL",
     "image_with_text_overlay_6C9ix4",
-    "images_with_text_scrolling_99jNqN",
+    "rich_text_QqqK3a",
     "multi_column_cNkQtw",
     "press"
   ]
