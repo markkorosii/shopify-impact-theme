@@ -9,48 +9,118 @@
  */
 {
   "sections": {
-    "gp_section_569355920094528544": {
+    "gp_section_569357323709973525": {
+      "type": "gp-section-569357323709973525",
       "settings": {
-        "checksum": "5fdb6fe2645d12449879184872044b2ac1667ca6e0b75ce3afb8b4299c595d81_1_1_1_0_"
-      },
-      "type": "gp-section-569355920094528544"
+        "section_preload": "true",
+        "checksum": "",
+        "ggp-XM347rB_customContent_suffix": "",
+        "gi2la6131b4e21_viewMoreText": "",
+        "gi2la6131b4e21_viewLessText": "",
+        "ggG9XXOhWR7_childItem_0": "",
+        "ggG9XXOhWR7_childItem_1": "",
+        "ggG9XXOhWR7_childItem_2": "",
+        "ggG9XXOhWR7_childItem_3": "",
+        "ggSISjIot6c_text": "",
+        "gg9c77_rVFO_text": "",
+        "ggVWoOvqK4Y_text": "asd",
+        "ggYibWuVY0S_text": "asd",
+        "gg7sdIawSnA_childItem_0": "asd",
+        "ggtGZf8Bp6u_childItem_0": "asd",
+        "ggN_Npo_yb7_childItem_0": "asd",
+        "ggHDuVJBraZ_childItem_0": "asd",
+        "ggviZnYlt9o_text": "",
+        "ggWCG-AjTdg_text": "",
+        "ggsc36oLmTa_text": "",
+        "ggFSa4CakjO_text": "",
+        "gg7wCbtqb_z_text": "",
+        "gg-x6jAfiaZ_text": "",
+        "ggcmcNE8B6b_text": "",
+        "ggdfPWqd4dB_text": "",
+        "ggtUw0XXVbq_text": ""
+      }
     },
     "gp_section_569355942743770092": {
+      "type": "gp-section-569355942743770092",
       "settings": {
-        "checksum": "eb17882cd0b5e3d715370bd09b4b5d4393a9929497e907f19937da967d59c6c2_1_1_1_0_"
-      },
-      "type": "gp-section-569355942743770092"
+        "section_preload": "false",
+        "checksum": "eb17882cd0b5e3d715370bd09b4b5d4393a9929497e907f19937da967d59c6c2_1_1_1_0_",
+        "gaiPIZKUxNpwG_text": "Toate aceste rezultate,<br>doar din apă curată.",
+        "gBAMuyHvxcWBD_text": "<p>Când elimini toate substanțele nocive, corpul tău înflorește.</p>",
+        "ggCk5w2rFj7_text": "<p><span style=\"color:#606060;\">01</span> – Fără păr fragil</p>",
+        "ggaD-Pgv30A_text": "<p><span style=\"color:#606060;\">02</span> – Piele sănătoasă și hidratată</p>",
+        "gg5-S7KEpBs_text": "<p><span style=\"color:#606060;\">03</span><span style=\"color:#A0A0A0;\"> </span>– Păr mai des și mai strălucitor</p>",
+        "ggF-ZTISVph_text": "<p><span style=\"color:#606060;\">04 </span>– Mai puține coșuri și imperfecțiuni</p>"
+      }
     },
-    "gp_section_569355997286499360": {
+    "gp_section_569355920094528544": {
+      "type": "gp-section-569355920094528544",
       "settings": {
-        "checksum": "4625237a648d2972c3d3dfc576b13bfac05f9a0a968fef62b8e205a39d241ea7_1_1_1_0_"
-      },
-      "type": "gp-section-569355997286499360"
-    },
-    "gp_section_569357323709973525": {
-      "settings": {
-        "checksum": "69adb5e7b81e69962f2bb24c07e9666471257e5a1de1bb72572095436a0953e3_1_1_1_0_",
-        "section_preload": "true"
-      },
-      "type": "gp-section-569357323709973525"
-    },
-    "gp_section_571645619102287072": {
-      "settings": {
-        "checksum": "057b78596810fd5fa5b44d75e2d6c5c9e040cfa464931916226a1c9d7599344e_1_1_1_0_"
-      },
-      "type": "gp-section-571645619102287072"
-    },
-    "gp_section_571652763964932935": {
-      "settings": {
-        "checksum": "ade336d0f9850c6aeb4d2cd607e361b4c173c41fb7966053f1e387bd02843545_1_1_1_0_"
-      },
-      "type": "gp-section-571652763964932935"
+        "section_preload": "false",
+        "checksum": "5fdb6fe2645d12449879184872044b2ac1667ca6e0b75ce3afb8b4299c595d81_1_1_1_0_",
+        "gghpbgPmADn_text": "<p>Andra, Brașov</p>",
+        "ggYkFEFwiF__text": "<p>\"Mă simt mult mai fresh după duș. Părul meu este foarte sensibil la clor, iar Aquafiltr îl face să se simtă mai puțin uscat și fragil.\"</p>",
+        "gDidangwIOugo_text": "<p><span style=\"font-size:14px;\">Elena, Iași</span></p>",
+        "ghjCptgSDWfwW_text": "<p>\"Roșeața și imperfecțiunile au DISPĂRUT. Nu-mi vine să cred, nu am mai avut o piele atât de fină și curată din gimnaziu!\"</p>",
+        "ggBD_bIZHDc_text": "<p>Corina, Ploiești</p>",
+        "ggOnL3SomK__text": "<p>\"Culoarea părului meu rezistă mai mult și tenul are un glow natural. Aquafiltr e secretul meu pentru frumusețe!\"</p>",
+        "gggK-ijgP2E_text": "<p>Bianca, Galați</p>",
+        "ggRzBbmY09p_text": "<p>\"Pielea mea sensibilă nu se mai irită! Cu Aquafiltr, e ca un duș cu apă de izvor – fără roșeață, doar confort. Îl recomand!\"</p>",
+        "gHtXajoInDSiG_text": "<p>Denisa, Oradea</p>",
+        "gqKmmaVdFnBmI_text": "<p>\"Nu mai cheltuiesc atât de mult pe loțiuni! Pielea mea e hidratată natural, datorită acestui filtru.\"</p>",
+        "gQaxTwEnKRDcw_text": "<p><span style=\"font-size:14px;\">Maria, Cluj</span></p>",
+        "gwBncpjHItXrS_text": "<p>\"<i>Nu credeam că o să facă diferența, dar după o lună, pielea mea e mai netedă decât a fost vreodată! Nici măcar nu mai folosesc cremă hidratantă.</i>\"</p>"
+      }
     },
     "gp_section_571656263440532295": {
+      "type": "gp-section-571656263440532295",
       "settings": {
-        "checksum": "f2d32a4b631c14ef66422db909df484dad9cb547e3a3cb33d9290dbad798a6d8_1_1_1_0_"
-      },
-      "type": "gp-section-571656263440532295"
+        "section_preload": "false",
+        "checksum": "f2d32a4b631c14ef66422db909df484dad9cb547e3a3cb33d9290dbad798a6d8_1_1_1_0_",
+        "gSEFlnsRxLoDA_text": "Vezi rezultatele fără riscuri.",
+        "gapdEOCGpgmRi_text": "<p>Încearcă filtrul nostru avansat de apă și experimentează beneficiile cu garanția noastră de 30 de zile. Bucură-te de apă mai curată și mai sigură, fără riscuri.</p>",
+        "ggHCEF6q2mn_childItem_0": "<p>Încearcă 30 de zile.</p>",
+        "ggHCEF6q2mn_childItem_1": "<p>Banii înapoi dacă nu ești mulțumit.</p>"
+      }
+    },
+    "gp_section_571652763964932935": {
+      "type": "gp-section-571652763964932935",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "ade336d0f9850c6aeb4d2cd607e361b4c173c41fb7966053f1e387bd02843545_1_1_1_0_",
+        "ggmjkqqGpr6_text": "Cum se montează ?",
+        "ggZH7x9wl6y_text": "<p>Aquafiltr se montează între capul de duș și perete, ceea ce îl face compatibil cu orice baie și orice tip de duș.</p>",
+        "ggeYPtX_j-v_text": "Am nevoie de instalator?",
+        "ggXoePKD7Fr_text": "<p><strong>Nu. </strong>Aquafiltr<strong> </strong>se instalează ușor, în doar câțiva pași simpli, fără unelte speciale.<br><strong>Pur și simplu îl înșurubezi și e gata.</strong></p>"
+      }
+    },
+    "gp_section_571645619102287072": {
+      "type": "gp-section-571645619102287072",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "057b78596810fd5fa5b44d75e2d6c5c9e040cfa464931916226a1c9d7599344e_1_1_1_0_",
+        "gBnbIiAiTqywj_text": "Scapă de <br>încrețire cu filtrul",
+        "gfAOYqjfXHVYk_text": "<p>Apa dură afectează <strong>96% dintre gospodării din România.</strong> Calcarul deteriorează pielea, părul și reduce durata de <strong>viață a aparatelor cu până la 68%.</strong></p><p><br><span style=\"background-color:rgba(244,244,244,0);color:#E0E0E0;\">(Sursa: Institutul Național de Statistică, 2024)</span></p>",
+        "gg0tjmcpOu-_childItem_0": "<p>Apa dură</p>",
+        "gg0tjmcpOu-_childItem_1": "<p>Clor</p>",
+        "ggRemVUSr8M_text": "Apa dură înseamnă depuneri, aparate defecte și gust neplăcut. Filtrarea calcarului prelungește viața electrocasnicelor și îmbunătățește gustul apei.",
+        "gg1FUa7rj0L_text": "94,7%",
+        "ggVyJCM4zlm_text": "<p>Elimină până la <strong>99% din clor și cloramina</strong>, precum și metale grele, microplastice și alte impurități, pentru o apă de duș curată.</p>",
+        "gg47OxGaliT_text": "99.2%",
+        "gKlUcBsggzBbF_text": "Elimină particule <br>invizibile, de până la",
+        "gMpNQyjBmUehO_text": "0.001<span style=\"font-size:16px;\">mm</span>",
+        "grEWpXppgUYbV_text": "<p>de 100x mai mici decât firul de păr!</p>",
+        "ggmjJ10QdSU_text": "Mai eficient decât <br>apa clorată",
+        "gg6M1EhK2Et_text": "94%",
+        "ggQ9QGs725B_text": "<p>din coloniile bacteriene</p>"
+      }
+    },
+    "gp_section_569355997286499360": {
+      "type": "gp-section-569355997286499360",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "4625237a648d2972c3d3dfc576b13bfac05f9a0a968fef62b8e205a39d241ea7_1_1_1_0_"
+      }
     }
   },
   "order": [
