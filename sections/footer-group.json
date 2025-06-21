@@ -11,22 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "newsletter_iXt4DQ": {
-      "type": "newsletter",
-      "settings": {
-        "full_width": true,
-        "show_icon": false,
-        "title": "Nu rata nicio oportunitate!",
-        "content": "<p>Abonează-te acum și primești 10% reducere la prima comandă!</p>",
-        "button_text": "VREAU ACCES EXCLUSIV",
-        "subtext": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "faq_8HCUTz": {
       "type": "faq",
       "blocks": {
@@ -91,8 +75,8 @@
       ],
       "settings": {
         "full_width": false,
-        "subheading": "",
-        "title": "Intrebari frecvente",
+        "subheading": "Összegyűjtöttünk mindent, amit tudnod kell, egy helyen, ha további kérdéseid vannak, írj nekünk!",
+        "title": "Gyakran ismételt kérdések",
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "Serviciul nostru de asistență pentru clienți este disponibil de luni până vineri, între orele 8:00 și 20:30.",
@@ -109,6 +93,22 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "newsletter_iXt4DQ": {
+      "type": "newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "Nu rata nicio oportunitate!",
+        "content": "<p>Abonează-te acum și primești 10% reducere la prima comandă!</p>",
+        "button_text": "VREAU ACCES EXCLUSIV",
+        "subtext": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "footer": {
