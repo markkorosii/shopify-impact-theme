@@ -39,14 +39,14 @@
           "type": "item",
           "settings": {
             "title": "Mi a különbség ez és a sima rágógumi között?",
-            "content": "<p>Ez a rágógumi sokkal <strong>frissebb</strong> és <strong>sűrűbb</strong> lesz, mivel lucfenyő nedv és masztix alappal készült. Sűrű és tartósabb textúrája lesz minden falatnál.<br/></p>"
+            "content": "<p>Ez a rágógumi sokkal <strong>frissebb</strong> és <strong>sűrűbb</strong> lesz, mivel lucfenyő nedv és masztix alappal készült. Sűrű és tartósabb textúrája lesz <strong>minden falatnál</strong>.<br/></p>"
           }
         },
         "item_xEXGaz": {
           "type": "item",
           "settings": {
-            "title": "Ce impurități elimină filtrul?",
-            "content": "<p><br/>Aquafiltr Pro elimină până la 99% din clor, cloramină și plumb. De asemenea, reduce metalele grele și alte substanțe chimice dăunătoare.<br/><br/><br/></p>"
+            "title": "Gluténmentes?",
+            "content": "<p><strong>Igen</strong>! Minden <strong>teethshield</strong> rágógumi 100%-ban <strong>gluténmentes</strong> és <strong>mesterséges tartósítószerektől mentes</strong>.<br/><br/><br/></p>"
           }
         },
         "item_9EGRmH": {
