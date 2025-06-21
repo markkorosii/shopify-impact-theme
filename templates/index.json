@@ -159,6 +159,23 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_QPWpgz": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/termekgif.webp",
+        "mobile_image": "shopify://shop_images/termekgif.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "multi_column_cNkQtw": {
       "type": "multi-column",
       "blocks": {
@@ -290,6 +307,7 @@
     "rich_text_VnHaVL",
     "image_with_text_overlay_6C9ix4",
     "rich_text_QqqK3a",
+    "image_with_text_overlay_QPWpgz",
     "multi_column_cNkQtw",
     "press"
   ]
