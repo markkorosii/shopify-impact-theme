@@ -69,8 +69,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -115,8 +115,6 @@
         "image_6K8Njx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Peace_Nwolo.png",
-            "mobile_image": "shopify://shop_images/Peace_Nwolo.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -137,8 +135,6 @@
         "image_KajptH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Andrew_Habib.png",
-            "mobile_image": "shopify://shop_images/Andrew_Habib.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -159,8 +155,6 @@
         "image_EVfa9U": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Adam_Grey.png",
-            "mobile_image": "shopify://shop_images/Adam_Grey.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -214,7 +208,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
