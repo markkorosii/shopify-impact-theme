@@ -17,8 +17,8 @@
         "item_ERDKVF": {
           "type": "item",
           "settings": {
-            "title": "Mekkorák a pontos adagok?",
-            "content": "<p><strong>Teethshield</strong> rágógumikat <strong>napi egyszeri</strong> használatra fejlesztettük ki, és számos esszenciális tápanyagot tartalmaz, amelyek <strong>helyreállítják</strong> az <strong>ínyét</strong> és a <strong>fogait</strong>.<br/></p>"
+            "title": "A TudAir teljesen kizárja a hangokat?",
+            "content": "<p><br/>Nem. A TudAir nem füldugó a klasszikus értelemben – nem némít el mindent, hanem csökkenti a zavaró frekvenciákat (például háttérzajokat), miközben a fontos hangokat – mint a beszéd vagy figyelmeztető hangok – továbbra is hallhatóvá teszi.</p>"
           }
         },
         "item_mryNUe": {
@@ -99,7 +99,6 @@
       "type": "newsletter",
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/ChatGPT_Image_2025._jun._21._13_11_22.png",
         "show_icon": false,
         "title": "IRATKOZZ FEL HÍRLEVELÜNKRE!",
         "content": "<p>Iratkozz fel hírlevelünkre E-mail címen keresztül, hogy igénybe vedd a 10%-os kedvezményünket. </p>",
