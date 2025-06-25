@@ -159,11 +159,13 @@
         "image_EVfa9U": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Bars_MOB.png",
+            "mobile_image": "shopify://shop_images/Bars_MOB.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Használhatom továbbra is a szokásos fogkrémemet és szájvizemet?",
-            "title": "Igen. A teethshield bármilyen rutinba beleillik. Nem kell semmit sem változtatnod. Csak rágj el egy kockát naponta, bármikor, amikor neked kényelmes.",
+            "subheading": "Tisztább beszéd, kevesebb zaj – TudAir társas helyzetekhez",
+            "title": "A hangdefiníciónak köszönhetően ismét élvezheti a forgalmas helyeket, például a zajos éttermeket és bárokat azáltal, hogy javítja a beszédtisztaságot és tisztábban kiemeli a hangokat. A háttérzaj is csökken, így a felhasználói élmény pihentetőbb és élvezetesebb. Kicsi, könnyű és nem tolakodó, így könnyen viselhető társasági helyzetekben.",
             "heading_tag": "h6",
             "button_text": "",
             "button_link": "",
