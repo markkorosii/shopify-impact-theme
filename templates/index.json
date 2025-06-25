@@ -192,9 +192,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "3-5 hónap",
+            "title": "Kellemesebb közlekedés",
             "heading_tag": "h4",
-            "content": "<p><strong>ÍNYEGÉSZSÉG ÉS ÉRZÉKENYSÉG ENYHÍTÉSE</strong><br/>Az íny kevésbé gyulladt és ellenállóbb, kevesebb vérzés és irritáció jelentkezik. Az érzékenység csökken, így a meleg és hideg ételek élvezetesebbek lesznek.<br/><br/></p>",
+            "content": "<p>A <strong>városi zajok </strong>– például <strong>tömegközlekedés</strong>, <strong>autóforgalom </strong>– tompítása révén <strong>nyugodtabb utazásélményt </strong>nyújt.<br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
