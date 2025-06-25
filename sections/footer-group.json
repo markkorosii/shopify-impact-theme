@@ -49,18 +49,11 @@
             "content": "<p>Teljes mértékben! A TudAir tartós, mosható és újrahasználható anyagból készült, így hosszú távon is megbízható társ a mindennapokban.</p>"
           }
         },
-        "item_9EGRmH": {
-          "type": "item",
-          "settings": {
-            "title": "Mindenki számára biztonságos?",
-            "content": "<p><strong>Igen</strong>! A <strong>teethshield</strong> rágóguminkat úgy terveztük, hogy <strong>mindenki</strong> számára <strong>biztonságos</strong> legyen, és különféle összetevőket kombinál, amelyek garantáltan <strong>javítják</strong> a szájhigiéniát. <br/><br/></p>"
-          }
-        },
         "item_aKre3P": {
           "type": "item",
           "settings": {
             "title": "Van pénzvisszafizetési garancia?",
-            "content": "<p><strong>Igen</strong>! Minden <strong>teethshield </strong>rágógumi rendelésünkre <strong>30 napos</strong> 100%-os <strong>pénzvisszafizetési garanciát vállalunk</strong>.<br/></p>"
+            "content": "<p>Igen! Minden TudAir rendelésünkre <strong>30 napos</strong> 100%-os <strong>pénzvisszafizetési garanciát vállalunk</strong>.<br/></p>"
           }
         }
       },
@@ -70,7 +63,6 @@
         "item_BCipb9",
         "item_mpdeCH",
         "item_xEXGaz",
-        "item_9EGRmH",
         "item_aKre3P"
       ],
       "settings": {
