@@ -38,8 +38,8 @@
         "item_mpdeCH": {
           "type": "item",
           "settings": {
-            "title": "Fájdalmas vagy kényelmetlen hosszabb használat esetén?",
-            "content": "<p>Nem. Ergonomikus kialakítása miatt kényelmesen illeszkedik a fülbe, akár több órás viselés esetén is. Többféle méretű fülpárnával érkezik, hogy mindenki megtalálja a számára legideálisabbat.</p>"
+            "title": "Milyen helyzetekben ajánlott használni?",
+            "content": "<p>Munkahelyen, tanuláshoz, utazáshoz, játék közben, tömegközlekedésen, edzéskor – gyakorlatilag bármikor, amikor zavaró a környezeti zaj, de nem szeretnél teljesen elzárkózni a külvilágtól.</p>"
           }
         },
         "item_xEXGaz": {
