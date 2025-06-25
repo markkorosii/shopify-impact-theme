@@ -181,12 +181,14 @@
         "image_RabhPf": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Cinema_MOB.png",
+            "mobile_image": "shopify://shop_images/Cinema_MOB.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 2",
-            "heading_tag": "h0",
+            "subheading": "Mozihatás otthon – TudAir-rel még valóságosabb élmény",
+            "title": "Merülj el a filmben úgy, mint még soha! A hangrezonancia csökkentésével a Definition tiszta párbeszédeket, mélyebb basszust és magával ragadó hangzásvilágot biztosít minden képernyőn.",
+            "heading_tag": "h6",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
