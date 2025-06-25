@@ -81,7 +81,7 @@
         "heading_G9gdJW": {
           "type": "heading",
           "settings": {
-            "text": "Rólunk",
+            "text": "TudAir – Prémium zajcsökkentő fülilleszték",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -90,7 +90,7 @@
         "richtext_THCct7": {
           "type": "richtext",
           "settings": {
-            "content": "<p>A <strong>TudAir</strong> <strong>bármilyen</strong> helyzetben <strong>javítja </strong>a hangminőséget azáltal, hogy <strong>kiküszöböli </strong>a rejtett <strong>fültorzításokat</strong>. </p><p><strong>Javítja a hangminőséget a következő helyeken: </strong><br/>Zene, koncertek, játékok, mozi, fejhallgató használata közben, zajos éttermek, klubok/bárok, motorsport, beszélgetések.</p>"
+            "content": "<p>A <strong>TudAir</strong> egy <strong>innovatív</strong>, <strong>prémium </strong>kategóriás <strong>fülilleszték</strong>, amely <strong>segít csökkenteni </strong>a <strong>zavaró </strong>háttérzajokat a <strong>mindennapok </strong>során. <strong>Nem </strong>minősül <strong>gyógyászati </strong>eszköznek, célja <strong>nem </strong>a <strong>hallás javítása </strong>vagy bármilyen <strong>egészségügyi probléma kezelése</strong>.</p><p>A <strong>TudAir </strong>úgy lett kialakítva, hogy <strong>finoman </strong>szűrje a környezeti hangokat <strong>anélkül</strong>, hogy <strong>teljesen </strong>elzárná azokat. Ezáltal <strong>támogatja </strong>a <strong>koncentrációt</strong>, a <strong>nyugodtabb </strong>munkavégzést, <strong>utazást </strong>vagy <strong>pihenést </strong>– legyen szó irodai <strong>zajokról</strong>, városi <strong>háttérhangokról </strong>vagy <strong>zsúfolt </strong>tömegről.</p><p>Diszkrét, kényelmes viseletet biztosít, újrafelhasználható, és minimalista kialakítása révén észrevétlenül illeszkedik a fülbe..</p>"
           }
         }
       },
@@ -116,6 +116,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/defi_female_in_ear.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -164,6 +165,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/defi_upd_ying_yang_clr_2048x2048_1.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
