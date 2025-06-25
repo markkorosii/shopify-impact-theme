@@ -223,13 +223,26 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_DjRRjy": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Tisztább zenehallgatás zajos környezetben",
+            "heading_tag": "h4",
+            "content": "<p>A <strong>TudAir </strong>kiszűri a <strong>háttérzajokat</strong>, így segít <strong>élvezetesebbé</strong> tenni a zenét például próbateremben, <strong>edzés </strong>közben vagy <strong>utazáskor </strong>– <strong>anélkül</strong>, hogy teljes <strong>hangelzárás </strong>történne.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_J49bBG",
         "item_wVTVKE",
         "item_Vgi4tm",
-        "item_ChxCFx"
+        "item_ChxCFx",
+        "item_DjRRjy"
       ],
       "name": "Multi-column",
       "settings": {
