@@ -24,7 +24,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Iratkozz fel hírlevelünkre.",
+            "text": "Használd a \"Tudair\" kódunkat!",
             "url": ""
           }
         }
@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ChatGPT_Image_2025._jun._21._13_11_22.png",
         "logo_max_width": 95,
         "logo_mobile_max_width": 60,
         "menu": "main-menu",
