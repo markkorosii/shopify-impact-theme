@@ -204,9 +204,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "6-8 hónap",
+            "title": "Pihentetőbb kikapcsolódás",
             "heading_tag": "h4",
-            "content": "<p><strong>ERŐSEBB FOGZOMÁNC ÉS VÉDELEM<br/></strong>A fogzománc észrevehetően erősebbé válik, csökkentve a fogszuvasodást és a szuvasodást. Az íny feszesebbnek és  egészségesebbnek érződik, javul a vérkeringés és a hidratáltság.</p>",
+            "content": "<p><strong>Olvasáshoz</strong>, <strong>relaxáláshoz </strong>vagy egyszerű <strong>pihenéshez </strong>tökéletes, hiszen <strong>segít </strong>kizárni a felesleges <strong>zajokat </strong>anélkül, hogy <strong>teljes </strong>elszigeteltséget teremtene.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
