@@ -18,14 +18,14 @@
           "type": "item",
           "settings": {
             "title": "A TudAir teljesen kizárja a hangokat?",
-            "content": "<p><br/>Nem. A TudAir nem füldugó a klasszikus értelemben – nem némít el mindent, hanem csökkenti a zavaró frekvenciákat (például háttérzajokat), miközben a fontos hangokat – mint a beszéd vagy figyelmeztető hangok – továbbra is hallhatóvá teszi.</p>"
+            "content": "<p>Nem. A TudAir nem füldugó a klasszikus értelemben – nem némít el mindent, hanem csökkenti a zavaró frekvenciákat (például háttérzajokat), miközben a fontos hangokat – mint a beszéd vagy figyelmeztető hangok – továbbra is hallhatóvá teszi.</p>"
           }
         },
         "item_mryNUe": {
           "type": "item",
           "settings": {
-            "title": "Milyen pontos egészségügyi előnyei vannak ennek a rágóguminak?",
-            "content": "<p><strong>Teethshield</strong> rágóguminkat úgy fejlesztettük ki, hogy <strong>javítsa</strong> a <strong>szájhigiéniát</strong> az <strong>üregek</strong> <strong>helyreállításáva</strong>l és a <strong>fogzománc</strong> <strong>erősítésével</strong>. Remekül <strong>javítja</strong> a <strong>leheletet</strong> is, mivel <strong>minőségi</strong> forrásból származó összetevőket tartalmaz, amelyek célja, hogy a <strong>rossz</strong> leheletet okozó <strong>baktériumokat</strong> a gyökerüknél <strong>pusztítsák el</strong>.</p>"
+            "title": "Ez egy orvosi eszköz?",
+            "content": "<p>Nem, a TudAir nem orvostechnikai eszköz. Nem kezel hallásproblémát, nem helyettesít hallókészüléket, és nem alkalmas betegségek diagnosztizálására. Célja kizárólag a komfortérzet javítása zajos környezetben.</p>"
           }
         },
         "item_BCipb9": {
