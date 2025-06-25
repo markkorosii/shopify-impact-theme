@@ -139,7 +139,7 @@
         "richtext_QEbXbG": {
           "type": "richtext",
           "settings": {
-            "content": "<p>A fülünk <strong>torzítja </strong>a hangot a hallójáratunk szabálytalan kanyarulatai miatt, ami <strong>kaotikus </strong>visszaverődéseket okoz.</p><p>A <strong>TudAir </strong>pontosan vezeti a dobhártyára – ezáltal a torzítás <strong>jelentősen </strong>csökken. Ez <strong>feltárja </strong>a torzítás által korábban elfedett hang részleteit.</p>"
+            "content": "<p>A fülünk <strong>torzítja </strong>a hangot a hallójáratunk szabálytalan kanyarulatai miatt, ami <strong>kaotikus </strong>visszaverődéseket okoz.</p><p>A <strong>TudAir </strong>pontosan vezeti a dobhártyára – ezáltal a torzítás <strong>jelentősen </strong>csökken. Ez <strong>feltárja </strong>a torzítás által <strong>korábban </strong>elfedett hang részleteit.</p>"
           }
         }
       },
