@@ -129,7 +129,7 @@
         "heading_fXrdjf": {
           "type": "heading",
           "settings": {
-            "text": "Hogyan működik?",
+            "text": "Technológia",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -138,7 +138,7 @@
         "richtext_QEbXbG": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Egyedülálló formulánk<strong> rágás közben aktiválódik</strong>, így <strong>jótékony</strong> hatással van <strong>fogaira és ínyére</strong> - mindezt természetesen és könnyedén.</p>"
+            "content": "<p>A fülünk <strong>torzítja </strong>a hangot a hallójáratunk szabálytalan kanyarulatai miatt, ami <strong>kaotikus </strong>visszaverődéseket okoz.</p><p>A <strong>TudAir </strong>pontosan vezeti a dobhártyára – ezáltal a torzítás <strong>jelentősen </strong>csökken. Ez <strong>feltárja </strong>a torzítás által korábban elfedett hang részleteit.</p>"
           }
         }
       },
