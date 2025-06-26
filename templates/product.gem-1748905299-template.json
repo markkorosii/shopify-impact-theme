@@ -115,29 +115,45 @@
         "item_B6WCTG": {
           "type": "item",
           "settings": {
-            "title": "Tiszta hangélmény, ahogy megálmodták – TudAir",
-            "content": "<p>A <strong>TudAir tisztább</strong>, <strong>valósághűbb </strong>hangzást <strong>biztosít</strong>, <strong>csökkenti </strong>a torzítást, és magával ragadóbb zeneélményt <strong>nyújt </strong>– akár fejhallgatón, akár élőben.</p>"
+            "title": "Tényleg jobb lesz tőle a közérzetem?",
+            "content": "<p><strong>Abszolút!</strong> A zajszennyezés alattomosan rontja a közérzeted – fáradtabbnak, idegesebbnek érzed magad. A TudAir segít kiszűrni ezeket a zavaró hangokat, így a tested és elméd végre pihenhet. Az első használat után már érezni fogod a különbséget.</p>"
           }
         },
         "item_jjg3yf": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Nem túl furcsa viselni?",
+            "content": "<p><strong>Épp ellenkezőleg.</strong> A TudAir észrevétlenül illeszkedik a fülbe, még hosszú viselés után is kényelmes. Az emberek inkább azt veszik észre rajtad, hogy nyugodtabb vagy – és nem azt, hogy mit viselsz.<br/><br/></p>"
           }
         },
         "item_inHRAt": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Megéri ez az ár?",
+            "content": "<p><strong>Teljes mértékben.</strong> Ez nem csak egy termék – ez egy befektetés a nyugalmadba, a fókuszodba, az alvásodba. Egyetlen jó nap vagy nyugodt éjszaka is megér ennyit – hát még hónapok, évek nyugalma!<br/><br/></p>"
+          }
+        },
+        "item_n7NfqQ": {
+          "type": "item",
+          "settings": {
+            "title": "Miért nem elég, ha csak becsukom az ablakot?",
+            "content": "<p>A TudAir nemcsak elnyomja a zajt – okosan szűri. A felesleges háttérzajt eltávolítja, de a fontos dolgokat – mint a beszéd – átengedi. Ez az, amit a hagyományos füldugók nem tudnak.<br/><br/></p>"
+          }
+        },
+        "item_Nqz8rH": {
+          "type": "item",
+          "settings": {
+            "title": "Miért jobb ez, mint más füldugó?",
+            "content": "<p>A TudAir nemcsak elnyomja a zajt – okosan szűri. A felesleges háttérzajt eltávolítja, de a fontos dolgokat – mint a beszéd – átengedi. Ez az, amit a hagyományos füldugók nem tudnak.</p>"
           }
         }
       },
       "block_order": [
         "item_B6WCTG",
         "item_jjg3yf",
-        "item_inHRAt"
+        "item_inHRAt",
+        "item_n7NfqQ",
+        "item_Nqz8rH"
       ],
       "name": "FAQ",
       "settings": {
