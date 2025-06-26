@@ -478,6 +478,63 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "1750971622ee676bd8": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_verified_badge_4zqNPa": {
+          "type": "shopify://apps/judge-me-reviews/blocks/verified_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "judge_me_reviews_ugc_media_grid_qqFmnQ": {
+          "type": "shopify://apps/judge-me-reviews/blocks/ugc_media_grid/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_egfmdr": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "judge_me_reviews_medals_nUPMAi": {
+          "type": "shopify://apps/judge-me-reviews/blocks/medals/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "judge_me_reviews_all_reviews_text_fNakea": {
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_text/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "judge_me_reviews_featured_carousel_RXteW9": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        },
+        "judge_me_reviews_review_widget_DwmT6j": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_verified_badge_4zqNPa",
+        "judge_me_reviews_ugc_media_grid_qqFmnQ",
+        "judge_me_reviews_preview_badge_egfmdr",
+        "judge_me_reviews_medals_nUPMAi",
+        "judge_me_reviews_all_reviews_text_fNakea",
+        "judge_me_reviews_featured_carousel_RXteW9",
+        "judge_me_reviews_review_widget_DwmT6j"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -488,6 +545,7 @@
     "media_with_text_mjDztL",
     "media_with_text_wMB4H6",
     "slideshow_md3egz",
-    "related-products"
+    "related-products",
+    "1750971622ee676bd8"
   ]
 }
