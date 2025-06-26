@@ -109,6 +109,59 @@
         "input_text_color": ""
       }
     },
+    "faq_yjtTNb": {
+      "type": "faq",
+      "blocks": {
+        "item_B6WCTG": {
+          "type": "item",
+          "settings": {
+            "title": "Tiszta hangélmény, ahogy megálmodták – TudAir",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_jjg3yf": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_inHRAt": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_B6WCTG",
+        "item_jjg3yf",
+        "item_inHRAt"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Előnyök",
+        "content": "<p><strong>Minden életszituációban tökéletes választás a TudAir.</strong></p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "slideshow_md3egz": {
       "type": "slideshow",
       "blocks": {
@@ -245,6 +298,7 @@
   },
   "order": [
     "main",
+    "faq_yjtTNb",
     "slideshow_md3egz",
     "related-products"
   ]
