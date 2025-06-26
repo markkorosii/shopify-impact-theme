@@ -257,7 +257,7 @@
         "image_F9FVaF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Cinema_MOB.png",
+            "image": "shopify://shop_images/Bars_MOB.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -293,16 +293,16 @@
         "image_wdBqed": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Cinema_MOB.png",
+            "image": "shopify://shop_images/GamingMOB.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "custom_icon": "shopify://shop_images/ChatGPT_Image_2025._jun._25._20_52_12_3bc3d09a-f177-4b54-b883-f24b35457878.png",
             "icon_width": 48,
-            "subheading": "Mozihatás otthon – TudAir-rel még valóságosabb élmény",
+            "subheading": "Előny a játékban – Hallj többet TudAir-rel",
             "title": "",
-            "content": "<p><br/>Merülj el a filmben úgy, mint még soha! A hangrezonancia csökkentésével a Definition tiszta párbeszédeket, mélyebb basszust és magával ragadó hangzásvilágot biztosít minden képernyőn.<br/><br/></p>",
+            "content": "<p>A TudAir kiemeli a játék finom hangjeleit, javítja az irányérzékelést és csökkenti a fülfáradást – tökéletes hosszú gaming sessionökhöz.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#000000",
@@ -378,7 +378,7 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Előny a játékban – Hallj többet TudAir-rel",
-            "title": "A TudAir segít tisztábban hallani a finom játékhangeffekteket – mint a lépések, lövések vagy környezeti zajok. Ez pontosabb irányérzékelést biztosít, ami kulcsfontosságú FPS és nyílt világú játékokban. Emellett csökkenti a fülfáradást, így ideális hosszabb gaming sessionökhöz is.",
+            "title": "A TudAir kiemeli a játék finom hangjeleit, javítja az irányérzékelést és csökkenti a fülfáradást – tökéletes hosszú gaming sessionökhöz.",
             "heading_tag": "h6",
             "button_text": "",
             "button_link": "",
