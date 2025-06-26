@@ -125,14 +125,14 @@
         "item_ECYPUM": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-timer",
             "mobile_icon_width": 24,
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "Szállítási idő",
+            "content": "<p>2-3 munkanap.</p>"
           }
         },
         "item_6Ktqjc": {
