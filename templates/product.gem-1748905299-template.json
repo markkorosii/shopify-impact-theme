@@ -251,6 +251,78 @@
         "spacing": "small"
       }
     },
+    "media_with_text_mjDztL": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_F9FVaF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Cinema_MOB.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/ChatGPT_Image_2025._jun._25._20_52_12_3bc3d09a-f177-4b54-b883-f24b35457878.png",
+            "icon_width": 48,
+            "subheading": "Mozihatás otthon – TudAir-rel még valóságosabb élmény",
+            "title": "",
+            "content": "<p><br/>Merülj el a filmben úgy, mint még soha! A hangrezonancia csökkentésével a Definition tiszta párbeszédeket, mélyebb basszust és magával ragadó hangzásvilágot biztosít minden képernyőn.<br/><br/></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_F9FVaF"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_wMB4H6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_wdBqed": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Cinema_MOB.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/ChatGPT_Image_2025._jun._25._20_52_12_3bc3d09a-f177-4b54-b883-f24b35457878.png",
+            "icon_width": 48,
+            "subheading": "Mozihatás otthon – TudAir-rel még valóságosabb élmény",
+            "title": "",
+            "content": "<p><br/>Merülj el a filmben úgy, mint még soha! A hangrezonancia csökkentésével a Definition tiszta párbeszédeket, mélyebb basszust és magával ragadó hangzásvilágot biztosít minden képernyőn.<br/><br/></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_wdBqed"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "slideshow_md3egz": {
       "type": "slideshow",
       "blocks": {
@@ -412,6 +484,8 @@
     "faq_yjtTNb",
     "media_with_text_xCh6Ug",
     "media_with_text_pgTnc6",
+    "media_with_text_mjDztL",
+    "media_with_text_wMB4H6",
     "slideshow_md3egz",
     "related-products"
   ]
