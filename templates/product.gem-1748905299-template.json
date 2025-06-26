@@ -52,6 +52,10 @@
             "collapse_content": false
           }
         },
+        "sku_NTqdKb": {
+          "type": "sku",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -91,6 +95,7 @@
         "payment_terms",
         "separator",
         "description",
+        "sku_NTqdKb",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -112,6 +117,67 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "text_with_icons_3c3PRW": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_ECYPUM": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_6Ktqjc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_6rnh9L": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ECYPUM",
+        "item_6Ktqjc",
+        "item_6rnh9L"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq_yjtTNb": {
@@ -544,6 +610,7 @@
   },
   "order": [
     "main",
+    "text_with_icons_3c3PRW",
     "faq_yjtTNb",
     "media_with_text_xCh6Ug",
     "media_with_text_pgTnc6",
