@@ -179,6 +179,78 @@
         "accordion_text_color": ""
       }
     },
+    "media_with_text_xCh6Ug": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_gz3Qkq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gig_MOB.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/ChatGPT_Image_2025._jun._25._20_52_12_3bc3d09a-f177-4b54-b883-f24b35457878.png",
+            "icon_width": 48,
+            "subheading": "Tiszta hangélmény, ahogy megálmodták – TudAir",
+            "title": "",
+            "content": "<p>A TudAir felerősíti a zene igazi élményét – tisztább hangszerek, élethűbb énekhangok, kevesebb torzítás. Akár fejhallgatóval, akár élőben hallgatod, minden részlet érezhetőbbé válik.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_gz3Qkq"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_pgTnc6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_dp4ncL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Cinema_MOB.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/ChatGPT_Image_2025._jun._25._20_52_12_3bc3d09a-f177-4b54-b883-f24b35457878.png",
+            "icon_width": 48,
+            "subheading": "Mozihatás otthon – TudAir-rel még valóságosabb élmény",
+            "title": "",
+            "content": "<p><br/>Merülj el a filmben úgy, mint még soha! A hangrezonancia csökkentésével a Definition tiszta párbeszédeket, mélyebb basszust és magával ragadó hangzásvilágot biztosít minden képernyőn.<br/><br/></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_dp4ncL"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "slideshow_md3egz": {
       "type": "slideshow",
       "blocks": {
@@ -191,8 +263,29 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Tiszta hangélmény, ahogy megálmodták – TudAir",
-            "title": "A TudAir segít felfedezni a zenéid rejtett részleteit – akár fejhallgatóval, akár élőben hallgatod. Csökkenti a torzítást, így a hangszerek és énekhangok tisztábban, valósághűbben szólnak.A kiegyensúlyozott frekvenciaátvitelnek és precíz térhatásnak köszönhetően magával ragadóbb, dinamikusabb zenehallgatási élményt nyújt.",
+            "title": "A TudAir felerősíti a zene igazi élményét – tisztább hangszerek, élethűbb énekhangok, kevesebb torzítás. Akár fejhallgatóval, akár élőben hallgatod, minden részlet érezhetőbbé válik.",
             "heading_tag": "h6",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_4jM6kh": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -273,6 +366,7 @@
       },
       "block_order": [
         "image_6K8Njx",
+        "image_4jM6kh",
         "image_KajptH",
         "image_EVfa9U",
         "image_RabhPf"
@@ -316,6 +410,8 @@
   "order": [
     "main",
     "faq_yjtTNb",
+    "media_with_text_xCh6Ug",
+    "media_with_text_pgTnc6",
     "slideshow_md3egz",
     "related-products"
   ]
