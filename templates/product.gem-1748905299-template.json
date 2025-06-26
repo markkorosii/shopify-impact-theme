@@ -443,6 +443,7 @@
         "image_EVfa9U",
         "image_RabhPf"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": true,
