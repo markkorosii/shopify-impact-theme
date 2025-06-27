@@ -154,5 +154,13 @@
       "checkout_accent_color": "#f0c417",
       "checkout_button_color": "#1a1a1a"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* Fő csillagok a termékoldalon */.jdgm-star.jdgm--on {color: #FFD700 !important;}",
+      "/* Átlagcsillag (pl. 4.9/5 csillag) */.jdgm-prev-badge__stars .jdgm-star.jdgm--on {color: #FFD700 !important;}",
+      "/* Értékelés widget csillagjai */.jdgm-rev__star .jdgm-star.jdgm--on {color: #FFD700 !important;}",
+      "/* Slide review csillagjai */.jdgm-carousel__stars .jdgm-star.jdgm--on {color: #FFD700 !important;}"
+    ]
   }
 }
