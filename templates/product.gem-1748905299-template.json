@@ -372,6 +372,83 @@
         "spacing": "small"
       }
     },
+    "faq_B3QKwf": {
+      "type": "faq",
+      "blocks": {
+        "item_zecTQK": {
+          "type": "item",
+          "settings": {
+            "title": "A TudAir teljesen kizárja a hangokat?",
+            "content": "<p>Nem. A TudAir nem füldugó a klasszikus értelemben – nem némít el mindent, hanem csökkenti a zavaró frekvenciákat (például háttérzajokat), miközben a fontos hangokat – mint a beszéd vagy figyelmeztető hangok – továbbra is hallhatóvá teszi.</p>"
+          }
+        },
+        "item_GCkwa4": {
+          "type": "item",
+          "settings": {
+            "title": "Ez egy orvosi eszköz?",
+            "content": "<p>Nem, a TudAir nem orvostechnikai eszköz. Nem kezel hallásproblémát, nem helyettesít hallókészüléket, és nem alkalmas betegségek diagnosztizálására. Célja kizárólag a komfortérzet javítása zajos környezetben.</p>"
+          }
+        },
+        "item_UdEUeL": {
+          "type": "item",
+          "settings": {
+            "title": "Segít játék közben is?",
+            "content": "<p>Igen! Kifejezetten ajánlott gamereknek, akik zavaró háttérzajok mellett szeretnének koncentrálni. A TudAir segít tisztábban észlelni a játékbeli hangokat (lépések, lövések), miközben kiszűri a környezetből jövő zavaró zajokat.</p>"
+          }
+        },
+        "item_JnFD3R": {
+          "type": "item",
+          "settings": {
+            "title": "Milyen helyzetekben ajánlott használni?",
+            "content": "<p>Munkahelyen, tanuláshoz, utazáshoz, játék közben, tömegközlekedésen, edzéskor – gyakorlatilag bármikor, amikor zavaró a környezeti zaj, de nem szeretnél teljesen elzárkózni a külvilágtól.</p>"
+          }
+        },
+        "item_CyBaia": {
+          "type": "item",
+          "settings": {
+            "title": "Újra lehet használni?",
+            "content": "<p>Teljes mértékben! A TudAir tartós, mosható és újrahasználható anyagból készült, így hosszú távon is megbízható társ a mindennapokban.</p>"
+          }
+        },
+        "item_4bMtJ3": {
+          "type": "item",
+          "settings": {
+            "title": "Van pénzvisszafizetési garancia?",
+            "content": "<p>Igen! Minden TudAir rendelésünkre <strong>30 napos</strong> 100%-os <strong>pénzvisszafizetési garanciát vállalunk</strong>.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_zecTQK",
+        "item_GCkwa4",
+        "item_UdEUeL",
+        "item_JnFD3R",
+        "item_CyBaia",
+        "item_4bMtJ3"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "Összegyűjtöttünk mindent, amit tudnod kell, egy helyen, ha további kérdéseid vannak, írj nekünk!",
+        "title": "Gyakran ismételt kérdések",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "slideshow_md3egz": {
       "type": "slideshow",
       "blocks": {
@@ -659,6 +736,7 @@
     "image_with_text_overlay_hfqhYy",
     "rich_text_UifVVW",
     "media_with_text_mjDztL",
+    "faq_B3QKwf",
     "slideshow_md3egz",
     "related-products",
     "text_with_icons_3c3PRW",

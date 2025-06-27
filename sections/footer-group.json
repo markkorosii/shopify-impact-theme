@@ -115,6 +115,13 @@
             "content": "<p>Igen! Kifejezetten ajánlott gamereknek, akik zavaró háttérzajok mellett szeretnének koncentrálni. A TudAir segít tisztábban észlelni a játékbeli hangokat (lépések, lövések), miközben kiszűri a környezetből jövő zavaró zajokat.</p>"
           }
         },
+        "item_XAk8rA": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
         "item_mpdeCH": {
           "type": "item",
           "settings": {
@@ -141,10 +148,12 @@
         "item_ERDKVF",
         "item_mryNUe",
         "item_BCipb9",
+        "item_XAk8rA",
         "item_mpdeCH",
         "item_xEXGaz",
         "item_aKre3P"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "Összegyűjtöttünk mindent, amit tudnod kell, egy helyen, ha további kérdéseid vannak, írj nekünk!",
