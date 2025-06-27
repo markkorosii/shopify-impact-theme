@@ -26,16 +26,21 @@
           "type": "badges",
           "settings": {}
         },
+        "judge_me_reviews_preview_badge_t4MpYz": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": false
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
           }
         },
         "payment_terms": {
@@ -44,16 +49,6 @@
         },
         "separator": {
           "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "sku_NTqdKb": {
-          "type": "sku",
           "settings": {}
         },
         "variant_picker": {
@@ -66,9 +61,19 @@
             "size_chart_page": ""
           }
         },
+        "sku_NTqdKb": {
+          "type": "sku",
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -81,26 +86,61 @@
             "payment_button_text_color": ""
           }
         },
-        "judge_me_reviews_review_widget_pjxBmK": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {}
+        "collapsible_text_8yGqM4": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Tényleg jobb lesz tőle a közérzetem?",
+            "content": "<p><strong>Abszolút!</strong> A zajszennyezés alattomosan rontja a közérzeted – fáradtabbnak, idegesebbnek érzed magad. A TudAir segít kiszűrni ezeket a zavaró hangokat, így a tested és elméd végre pihenhet. Az első használat után már érezni fogod a különbséget.</p>"
+          }
+        },
+        "collapsible_text_xtiwRb": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Miért nem elég, ha csak becsukom az ablakot?",
+            "content": "<p>A TudAir nemcsak elnyomja a zajt – okosan szűri. A felesleges háttérzajt eltávolítja, de a fontos dolgokat – mint a beszéd – átengedi. Ez az, amit a hagyományos füldugók nem tudnak.</p>"
+          }
+        },
+        "collapsible_text_8mNkgp": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Nem túl furcsa viselni?",
+            "content": "<p><strong>Épp ellenkezőleg.</strong> A TudAir észrevétlenül illeszkedik a fülbe, még hosszú viselés után is kényelmes. Az emberek inkább azt veszik észre rajtad, hogy nyugodtabb vagy – és nem azt, hogy mit viselsz.</p>"
+          }
+        },
+        "collapsible_text_anMy6E": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Megéri ez az ár?",
+            "content": "<p><strong>Teljes mértékben.</strong> Ez nem csak egy termék – ez egy befektetés a nyugalmadba, a fókuszodba, az alvásodba. Egyetlen jó nap vagy nyugodt éjszaka is megér ennyit – hát még hónapok, évek nyugalma!</p>"
+          }
+        },
+        "collapsible_text_QhVJbX": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Miért jobb ez, mint más füldugó?",
+            "content": "<p>A TudAir nemcsak elnyomja a zajt – okosan szűri. A felesleges háttérzajt eltávolítja, de a fontos dolgokat – mint a beszéd – átengedi. Ez az, amit a hagyományos füldugók nem tudnak.</p>"
+          }
         }
       },
       "block_order": [
         "vendor",
         "title",
         "badges",
-        "price",
+        "judge_me_reviews_preview_badge_t4MpYz",
         "rating",
+        "price",
         "payment_terms",
         "separator",
-        "description",
-        "sku_NTqdKb",
         "variant_picker",
+        "sku_NTqdKb",
         "quantity_selector",
+        "description",
         "buy_buttons",
-        "judge_me_reviews_review_widget_pjxBmK"
+        "collapsible_text_8yGqM4",
+        "collapsible_text_xtiwRb",
+        "collapsible_text_8mNkgp",
+        "collapsible_text_anMy6E",
+        "collapsible_text_QhVJbX"
       ],
       "settings": {
         "full_width": true,
@@ -118,137 +158,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "text_with_icons_3c3PRW": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_ECYPUM": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-truck",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Szállítási idő",
-            "content": "<p>2-3 munkanap.</p>"
-          }
-        },
-        "item_6Ktqjc": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-happy",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Garancia",
-            "content": "<p>Termékünkre 30<strong> napos pénzvisszafizetési garanciát</strong> vállalunk. Kérdés esetén hétfőtől péntekig állunk rendelkezésedre.</p>"
-          }
-        },
-        "item_6rnh9L": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-money",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Biztonságos fizetés",
-            "content": "<p>Fizess <strong>kényelmesen </strong>utánvéttel<strong>.</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_ECYPUM",
-        "item_6Ktqjc",
-        "item_6rnh9L"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "faq_yjtTNb": {
-      "type": "faq",
-      "blocks": {
-        "item_B6WCTG": {
-          "type": "item",
-          "settings": {
-            "title": "Tényleg jobb lesz tőle a közérzetem?",
-            "content": "<p><strong>Abszolút!</strong> A zajszennyezés alattomosan rontja a közérzeted – fáradtabbnak, idegesebbnek érzed magad. A TudAir segít kiszűrni ezeket a zavaró hangokat, így a tested és elméd végre pihenhet. Az első használat után már érezni fogod a különbséget.</p>"
-          }
-        },
-        "item_jjg3yf": {
-          "type": "item",
-          "settings": {
-            "title": "Nem túl furcsa viselni?",
-            "content": "<p><strong>Épp ellenkezőleg.</strong> A TudAir észrevétlenül illeszkedik a fülbe, még hosszú viselés után is kényelmes. Az emberek inkább azt veszik észre rajtad, hogy nyugodtabb vagy – és nem azt, hogy mit viselsz.<br/><br/></p>"
-          }
-        },
-        "item_inHRAt": {
-          "type": "item",
-          "settings": {
-            "title": "Megéri ez az ár?",
-            "content": "<p><strong>Teljes mértékben.</strong> Ez nem csak egy termék – ez egy befektetés a nyugalmadba, a fókuszodba, az alvásodba. Egyetlen jó nap vagy nyugodt éjszaka is megér ennyit – hát még hónapok, évek nyugalma!<br/><br/></p>"
-          }
-        },
-        "item_n7NfqQ": {
-          "type": "item",
-          "settings": {
-            "title": "Miért nem elég, ha csak becsukom az ablakot?",
-            "content": "<p>A TudAir nemcsak elnyomja a zajt – okosan szűri. A felesleges háttérzajt eltávolítja, de a fontos dolgokat – mint a beszéd – átengedi. Ez az, amit a hagyományos füldugók nem tudnak.<br/><br/></p>"
-          }
-        },
-        "item_Nqz8rH": {
-          "type": "item",
-          "settings": {
-            "title": "Miért jobb ez, mint más füldugó?",
-            "content": "<p>A TudAir nemcsak elnyomja a zajt – okosan szűri. A felesleges háttérzajt eltávolítja, de a fontos dolgokat – mint a beszéd – átengedi. Ez az, amit a hagyományos füldugók nem tudnak.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_B6WCTG",
-        "item_jjg3yf",
-        "item_inHRAt",
-        "item_n7NfqQ",
-        "item_Nqz8rH"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Előnyök",
-        "content": "<p><strong>Minden életszituációban tökéletes választás a TudAir.</strong></p>",
-        "team_avatar": "shopify://shop_images/ChatGPT_Image_2025._jun._25._20_52_12_3bc3d09a-f177-4b54-b883-f24b35457878.png",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
       }
     },
     "media_with_text_xCh6Ug": {
@@ -551,6 +460,67 @@
         "product_card_text_color": ""
       }
     },
+    "text_with_icons_3c3PRW": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_ECYPUM": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Szállítási idő",
+            "content": "<p>2-3 munkanap.</p>"
+          }
+        },
+        "item_6Ktqjc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-happy",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Garancia",
+            "content": "<p>Termékünkre 30<strong> napos pénzvisszafizetési garanciát</strong> vállalunk. Kérdés esetén hétfőtől péntekig állunk rendelkezésedre.</p>"
+          }
+        },
+        "item_6rnh9L": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-money",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Biztonságos fizetés",
+            "content": "<p>Fizess <strong>kényelmesen </strong>utánvéttel<strong>.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ECYPUM",
+        "item_6Ktqjc",
+        "item_6rnh9L"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1750971622ee676bd8": {
       "type": "apps",
       "blocks": {
@@ -611,7 +581,6 @@
   },
   "order": [
     "main",
-    "faq_yjtTNb",
     "media_with_text_xCh6Ug",
     "media_with_text_pgTnc6",
     "media_with_text_mjDztL",
