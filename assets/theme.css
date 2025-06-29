@@ -9907,3 +9907,15 @@ split-lines {
     object-fit: cover;
   }
 }
+
+/* 🔥 Full-bleed képblokkok – TudAir stílushoz */
+.section--image-with-text,
+.section--image-with-text .page-width,
+.product__media-gallery,
+.slider--mobile .slider__slide {
+  padding: 0 !important;
+  margin: 0 auto !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  box-sizing: border-box;
+}
