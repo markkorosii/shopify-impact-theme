@@ -160,19 +160,33 @@
         "input_text_color": ""
       }
     },
-    "image_with_text_overlay_Q8t8jx": {
+    "image_with_text_overlay_6h69kr": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "heading_fERUxP": {
+        "subheading_CajUAa": {
+          "type": "subheading",
+          "settings": {
+            "text": "Prémium. Innovatív. Diszkrét."
+          }
+        },
+        "heading_gr4RGL": {
           "type": "heading",
           "settings": {
-            "text": "Adj új lehetőséget a füleidnek.",
-            "heading_tag": "h4"
+            "text": "Magyarország legokosabb hallásvédője",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_ET6Ni6": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>4.9/5</strong> értékelés több mint 60 vásárlótól.<br/><br/><em>„Tisztábban hallok, mint valaha – és senki sem veszi észre, hogy rajtam van.”</em></p>"
           }
         }
       },
       "block_order": [
-        "heading_fERUxP"
+        "subheading_CajUAa",
+        "heading_gr4RGL",
+        "richtext_ET6Ni6"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -181,30 +195,6 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/482958790_632253529446851_8275598862624005702_n-ezgif.com-video-to-webp-converter.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "media_with_text_XNrax4": {
-      "type": "media-with-text",
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
-    "image_with_text_overlay_ciHbyG": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/earbuds_resized_800x800_f5aaa91c-e586-4609-81d5-704ec5dcddee.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -754,9 +744,7 @@
   },
   "order": [
     "main",
-    "image_with_text_overlay_Q8t8jx",
-    "media_with_text_XNrax4",
-    "image_with_text_overlay_ciHbyG",
+    "image_with_text_overlay_6h69kr",
     "rich_text_9WyJdB",
     "image_with_text_overlay_BTLxji",
     "rich_text_NzicgW",
