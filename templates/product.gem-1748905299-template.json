@@ -195,6 +195,7 @@
         "enable_parallax": false,
         "image_size": "sm",
         "image": "shopify://shop_images/482958790_632253529446851_8275598862624005702_n-ezgif.com-video-to-webp-converter.webp",
+        "mobile_image": "shopify://shop_images/482958790_632253529446851_8275598862624005702_n-ezgif.com-video-to-webp-converter.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
