@@ -9908,29 +9908,8 @@ split-lines {
   }
 }
 
-/* 🔥 Full-bleed képblokkok – TudAir stílushoz */
-.section--image-with-text,
-.section--image-with-text .page-width,
-.product__media-gallery,
-.slider--mobile .slider__slide {
-  padding: 0 !important;
-  margin: 0 auto !important;
-  max-width: 100% !important;
+.custom-video-class {
   width: 100% !important;
-  box-sizing: border-box;
-}
-
-/* 🎥 Videók és GIF-ek széthúzva, de arányosan */
-.video-wrapper iframe,
-.video-wrapper video,
-.product__media-video,
-.product__media-gallery video,
-.shopify-model-viewer-ui,
-.shopify-model-viewer-ui model-viewer {
-  width: 100% !important;
-  max-width: 100% !important;
   height: auto !important;
   object-fit: cover;
-  display: block;
-  margin: 0 auto;
 }
