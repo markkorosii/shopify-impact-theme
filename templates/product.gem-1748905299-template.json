@@ -172,7 +172,7 @@
         "heading_gr4RGL": {
           "type": "heading",
           "settings": {
-            "text": "Magyarország legokosabb hallásvédője",
+            "text": "Magyarország legokosabb zajcsökkentése.",
             "heading_tag": "h3"
           }
         },
@@ -193,7 +193,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "sm",
         "image": "shopify://shop_images/482958790_632253529446851_8275598862624005702_n-ezgif.com-video-to-webp-converter.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
