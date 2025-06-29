@@ -9879,32 +9879,5 @@ split-lines {
   overflow: hidden;
 }
 
-@media screen and (max-width: 768px) {
-  .product__title,
-  .product__description,
-  .product-form,
-  .price,
-  .product__media-wrapper {
-    transform: scale(0.95);
-    margin: 0 auto;
-  }
 
-  .product__title {
-    font-size: 20px !important;
-  }
-
-  .price {
-    font-size: 16px !important;
-  }
-
-  .product__description {
-    font-size: 14px !important;
-    line-height: 1.4;
-  }
-
-  .product__media-wrapper img {
-    max-height: 300px;
-    object-fit: cover;
-  }
-}
 
