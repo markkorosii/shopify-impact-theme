@@ -160,6 +160,34 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_Q8t8jx": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_fERUxP": {
+          "type": "heading",
+          "settings": {
+            "text": "Adj új lehetőséget a füleidnek.",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fERUxP"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/482958790_632253529446851_8275598862624005702_n-ezgif.com-video-to-webp-converter.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "media_with_text_XNrax4": {
       "type": "media-with-text",
       "name": "Media with text",
@@ -726,6 +754,7 @@
   },
   "order": [
     "main",
+    "image_with_text_overlay_Q8t8jx",
     "media_with_text_XNrax4",
     "image_with_text_overlay_ciHbyG",
     "rich_text_9WyJdB",
