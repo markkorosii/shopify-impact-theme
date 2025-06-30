@@ -160,42 +160,16 @@
         "input_text_color": ""
       }
     },
-    "image_with_text_overlay_6h69kr": {
+    "image_with_text_overlay_BTLxji": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_CajUAa": {
-          "type": "subheading",
-          "settings": {
-            "text": "Prémium. Innovatív. Diszkrét."
-          }
-        },
-        "heading_gr4RGL": {
-          "type": "heading",
-          "settings": {
-            "text": "Magyarország legokosabb zajcsökkentése.",
-            "heading_tag": "h3"
-          }
-        },
-        "richtext_ET6Ni6": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>4.9/5</strong> értékelés több mint 60 vásárlótól.<br/><br/><em>„Tisztábban hallok, mint valaha – és senki sem veszi észre, hogy rajtam van.”</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_CajUAa",
-        "heading_gr4RGL",
-        "richtext_ET6Ni6"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/482958790_632253529446851_8275598862624005702_n-ezgif.com-video-to-webp-converter_1.webp",
-        "mobile_image": "shopify://shop_images/482958790_632253529446851_8275598862624005702_n-ezgif.com-video-to-webp-converter_2.webp",
+        "image": "shopify://shop_images/Untitled-ezgif.com-resize.webp",
+        "mobile_image": "shopify://shop_images/Untitled-ezgif.com-resize_1.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -236,16 +210,42 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_BTLxji": {
+    "image_with_text_overlay_6h69kr": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_CajUAa": {
+          "type": "subheading",
+          "settings": {
+            "text": "Prémium. Innovatív. Diszkrét."
+          }
+        },
+        "heading_gr4RGL": {
+          "type": "heading",
+          "settings": {
+            "text": "Magyarország legokosabb zajcsökkentése.",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_ET6Ni6": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>4.9/5</strong> értékelés több mint 60 vásárlótól.<br/><br/><em>„Tisztábban hallok, mint valaha – és senki sem veszi észre, hogy rajtam van.”</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CajUAa",
+        "heading_gr4RGL",
+        "richtext_ET6Ni6"
+      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Untitled-ezgif.com-resize.webp",
-        "mobile_image": "shopify://shop_images/Untitled-ezgif.com-resize_1.webp",
+        "image": "shopify://shop_images/Stocksy_comp_5504009_Dream_Blue-ezgif.com-resize.png",
+        "mobile_image": "shopify://shop_images/Stocksy_comp_5504009_Dream_Blue-ezgif.com-resize_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -294,8 +294,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ezgif.com-resize.jpg",
-        "mobile_image": "shopify://shop_images/defi_upd_ying_yang_clr_2048x2048_1_1d440226-c79a-4929-a5b7-017e01aa9a12.jpg",
+        "image": "shopify://shop_images/PDP_EXPERIENCE2_BLACK_03-ezgif.com-resize.jpg",
+        "mobile_image": "shopify://shop_images/PDP_EXPERIENCE2_BLACK_03-ezgif.com-resize_1.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -344,8 +344,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/defi_female_in_ear-ezgif.com-resize.png",
-        "mobile_image": "shopify://shop_images/defi_female_in_ear-ezgif.com-resize_1.png",
+        "image": "shopify://shop_images/Screenshot_2023-05-01_at_17.26_1-ezgif.com-resize.jpg",
+        "mobile_image": "shopify://shop_images/Screenshot_2023-05-01_at_17.26_1-ezgif.com-resize_1.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -749,8 +749,8 @@
   "order": [
     "main",
     "image_with_text_overlay_BTLxji",
-    "image_with_text_overlay_6h69kr",
     "rich_text_9WyJdB",
+    "image_with_text_overlay_6h69kr",
     "rich_text_NzicgW",
     "image_with_text_overlay_fzgyQ4",
     "rich_text_8DAPXr",
