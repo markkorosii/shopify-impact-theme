@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Untitled-ezgif.com-resize.webp",
-            "mobile_image": "shopify://shop_images/Untitled-ezgif.com-resize_1.webp",
+            "image": "shopify://shop_images/fbad-ezgif.com-resize_1.webp",
+            "mobile_image": "shopify://shop_images/fbad-ezgif.com-resize.webp",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -167,8 +167,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/fbad-ezgif.com-resize_1.webp",
-        "mobile_image": "shopify://shop_images/fbad-ezgif.com-resize.webp",
+        "image": "shopify://shop_images/Untitled-ezgif.com-resize.webp",
+        "mobile_image": "shopify://shop_images/Untitled-ezgif.com-resize_1.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
