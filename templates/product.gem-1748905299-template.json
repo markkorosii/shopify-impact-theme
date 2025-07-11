@@ -61,6 +61,12 @@
             "size_chart_page": ""
           }
         },
+        "inventory_RDG7BB": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 0
+          }
+        },
         "sku_NTqdKb": {
           "type": "sku",
           "settings": {}
@@ -132,6 +138,7 @@
         "payment_terms",
         "separator",
         "variant_picker",
+        "inventory_RDG7BB",
         "sku_NTqdKb",
         "quantity_selector",
         "description",
