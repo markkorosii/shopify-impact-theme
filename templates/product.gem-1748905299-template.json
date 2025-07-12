@@ -61,6 +61,12 @@
             "size_chart_page": ""
           }
         },
+        "text_NrEbfx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🔔 Csak 3 db van raktáron.</p>"
+          }
+        },
         "inventory_RDG7BB": {
           "type": "inventory",
           "disabled": true,
@@ -139,6 +145,7 @@
         "payment_terms",
         "separator",
         "variant_picker",
+        "text_NrEbfx",
         "inventory_RDG7BB",
         "sku_NTqdKb",
         "quantity_selector",
