@@ -64,7 +64,7 @@
         "liquid_xY33d6": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 10px; border: 1px solid #e5e5e5; border-radius: 8px; background: #f9f9f9; font-size: 15px;\">\n  🔥 <strong>Ma éjfélig 50% kedvezmény!</strong><br>\n  ✉️ <strong>+10% extra kedvezmény</strong> hírlevél feliratkozóknak<br>\n  🔔 <strong>Csak 3 db van raktáron</strong> – siess, gyorsan fogynak!<br>\n  🚚 <strong>2-3 munkanapos szállítás</strong> Magyarországról<br>\n  ✅ <strong>30 napos pénzvisszafizetési garancia</strong>\n</div>"
+            "liquid": "<div style=\"padding: 10px; border: 1px solid #e5e5e5; border-radius: 8px; background: #f9f9f9; font-size: 15px;\">\n  🔥 <strong>Ma éjfélig 50% kedvezmény!</strong><br>\n  ✉️ <strong>+10% extra kedvezmény</strong> hírlevél feliratkozóknak<br>\n  🔔 <strong>Csak 2 db van raktáron</strong> – siess, gyorsan fogynak!<br>\n  🚚 <strong>2-3 munkanapos szállítás</strong> Magyarországról<br>\n  ✅ <strong>30 napos pénzvisszafizetési garancia</strong>\n</div>"
           }
         },
         "inventory_RDG7BB": {
